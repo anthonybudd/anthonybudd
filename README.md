@@ -38,10 +38,11 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/larachan?style=social)
 
 
-LaraChan is a simple 4chan-style imageboard built on Laravel 8. 
--   🧅  **Tor**  - Built in Tor proxy
--   🤖  **CAPTCHA**  - Self-hosted captchas.
--   🚫  **No .JS**  - No front-end JavaScript.
+LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can be installed in 5 easy commands and is designed to be deployed on a Raspberry Pi. Many of useful Artisan commands are provided so you can administrate your imageboard using the CLI.
+
+- 🧅  **Tor**  - Built in Tor proxy
+- 🤖  **CAPTCHA**  - Self-hosted captchas.
+- 🚫  **No .JS**  - No front-end JavaScript.
 
 ---
 <p>
