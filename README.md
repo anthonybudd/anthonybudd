@@ -3,7 +3,7 @@ I am an expert Node.js and PHP developer with over 10 years of commercial experi
 
 - ⭐️ My projects have generated over 650 Stars
 - 🤓 Worked at Apple, RedHat and LegalZoom
-- Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
+- ✅ Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
 #### Hire Me
@@ -46,8 +46,10 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8.
 </p>
 
 ### [S4](https://github.com/anthonybudd/s4)
+
+
 ![Stars](https://img.shields.io/github/stars/anthonybudd/s4?style=social)
-S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS. Tor acts as a DNS and  [IPFS](https://github.com/ipfs/ipfs) acts as a CDN and will make your data permanently accessible and is almost impossible to take offline once it has been published. A  [sidecar docker container](https://github.com/anthonybudd/s4-client)  is provided to seamlessly proxy requests from your existing S3 code over Tor to S4.
+S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS. Tor acts as a DNS and [IPFS](https://github.com/ipfs/ipfs) acts as a CDN and will make your data permanently accessible and is almost impossible to take offline once it has been published. A [sidecar docker container](https://github.com/anthonybudd/s4-client)  is provided to seamlessly proxy requests from your existing S3 code over Tor to S4.
 
 
 - [YouTube Tutorial](https://youtu.be/RMNjpAmCvcQ)
@@ -61,9 +63,28 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_model?style=social)
 
 
-WP_Model is a pseudo ORM for WordPress designed to provide a better method for handling posts using a simple OOP style syntax. WP_Model has been specifically designed to be easy as possible for front-end developers (helper methods, taxonomies) and developers with an entry level knowledge of PHP, but powerful enough (virtual properties, relationships, events) that it could be genuinely useful to back-end devs who want to make complex WP based projects.
+WP_Model is a pseudo ORM for WordPress, it provides an eloquent-esque active record style models of WordPress posts. 
 
-A simple drop-in abstract class for creating active record style eloquent-esque models of WordPress Posts
+```PHP
+Class Product extends WP_Model
+{
+    public $postType = 'product';
+    public $attributes = [
+        'color',
+        'weight'
+    ];
+}
+
+Product::register();
+
+$book = new Product;
+$book->title = 'WordPress for dummies';
+$book->color = 'Yellow';
+$book->weight = 100;
+$book->save();
+```
+
+
 
 #### [WP_Mail](https://github.com/anthonybudd/wp_mail)
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_mail?style=social)
