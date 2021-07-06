@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.png" alt="Header">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
 I am an expert Node.js and PHP developer with over 10 years of commercial experience building, deploying and maintaing REST APIs.
