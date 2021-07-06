@@ -50,11 +50,9 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 </p>
 
 ### [S4](https://github.com/anthonybudd/s4)
-
-
-
-
 ![Stars](https://img.shields.io/github/stars/anthonybudd/s4?style=social)
+
+
 S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS. Tor acts as a DNS and [IPFS](https://github.com/ipfs/ipfs) acts as a CDN and will make your data permanently accessible and is almost impossible to take offline once it has been published. A [sidecar docker container](https://github.com/anthonybudd/s4-client)  is provided to seamlessly proxy requests from your existing S3 code over Tor to S4.
 
 
