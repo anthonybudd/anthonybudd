@@ -99,10 +99,10 @@ WP_Route::post('flights/{flight}',              'singleFlight');
 WP_Route::put('flights/{flight}/book/{date}',   'bookFlight');
 WP_Route::delete('flights/{flight}/delete',     'deleteFlight');
 
-WP_Route::any('flights/{flight}',   array('Class', 'staticMethod'));
-WP_Route::patch('flights/{flight}', array($object, 'method'));
-WP_Route::match(['get', 'post'],    'flights/{flight}/confirm', 'confirmFlight');
-WP_Route::redirect('from/here',     '/to/here', 301);
+WP_Route::any('flights/{flight}',               array('Class', 'staticMethod'));
+WP_Route::patch('flights/{flight}',             array($object, 'method'));
+WP_Route::match(['get', 'post'],                'flights/{flight}/confirm', 'confirmFlight');
+WP_Route::redirect('/from/here',                 '/to/here', 301);
 ```
 
 
@@ -111,6 +111,18 @@ WP_Route::redirect('from/here',     '/to/here', 301);
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_mail?style=social)
 
 
-WP_Mail is the most popular, simplest and powerful dynamic email class available for WordPress. The class provides simple methods for attaching files, custom headers and lots of helper functions. The class only sends emails using the WordPress function wp_mail(), this means that all of your existing SMTP settings will continue to work with no additional config or set-up required.
-
-
+WP_Mail is the simplest and most powerful dynamic email class available for WordPress. The class provides simple methods for attaching files, custom headers and lots of helper functions. The class only sends emails using the WordPress function wp_mail(), this means that all of your existing SMTP settings will continue to work with no additional config or set-up required.
+```PHP
+$email = WP_Mail::init()
+    ->to('john.doe@gmail.com')
+    ->subject('WP_Mail is great!')
+    ->template(get_template_directory() .'/emails/example.php', [
+        'name'     => 'Anthony Budd',
+        'location' => 'London',
+        'skills'   => [
+           'PHP',
+           'AWS',
+        ] 
+    ])
+    ->send();
+```
