@@ -13,6 +13,11 @@ I am an expert Node.js and PHP developer with over 10 years of experience buildi
 I am currently available for hire at a rate of $90 USD/hr. Please send a project brief to [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=We%20would%20like%20to%20hire%20you.) for a quote. -->
 
 
+<p align="center">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png" alt="Talks">
+</p>
+
+
 ## My Projects
 
 <p>
