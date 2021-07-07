@@ -2,15 +2,15 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-I am an expert Node.js and PHP developer with over 10 years of commercial experience building, deploying and maintaing REST APIs.
+I am an expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs. I like to build open-source projects that leverage alternative and emerging technologies to solve real world problems.
 
 - ⭐️ My projects have generated over 650 stars
 - 🤓 Worked at Apple, RedHat and LegalZoom
 - ✅ Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
-#### Hire Me
-I am currently available for hire at a rate of $90 USD/hr. Please send a project brief to [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=We%20would%20like%20to%20hire%20you.) for a quote.
+<!-- #### Hire Me
+I am currently available for hire at a rate of $90 USD/hr. Please send a project brief to [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=We%20would%20like%20to%20hire%20you.) for a quote. -->
 
 
 ## My Projects
@@ -103,7 +103,7 @@ WP_Route::delete('flights/{flight}/delete',     'deleteFlight');
 WP_Route::any('flights/{flight}',               array('Class', 'staticMethod'));
 WP_Route::patch('flights/{flight}',             array($object, 'method'));
 WP_Route::match(['get', 'post'],                'flights/{flight}/confirm', 'confirmFlight');
-WP_Route::redirect('/from/here',                 '/to/here', 301);
+WP_Route::redirect('/from/here',                '/to/here', 301);
 ```
 
 
@@ -127,3 +127,7 @@ $email = WP_Mail::init()
     ])
     ->send();
 ```
+
+
+
+🟨⬛️🐍
