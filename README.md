@@ -38,11 +38,11 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/larachan?style=social)
 
 
-LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can be installed in 5 easy commands and is designed to be deployed on a Raspberry Pi. Many of useful Artisan commands are provided so you can administrate your imageboard using the CLI.
+LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can be installed in 5 easy commands and is designed to be deployed on a Raspberry Pi. Many useful Artisan commands are provided so you can administrate your imageboard using the CLI.
 
-- 🧅  **Tor**  - Built in Tor proxy
-- 🤖  **CAPTCHA**  - Self-hosted captchas.
-- 🚫  **No .JS**  - No front-end JavaScript.
+- 🧅 **Tor**  - Built in Tor proxy
+- 🤖 **CAPTCHA**  - Self-hosted captchas.
+- 🚫 **No .JS**  - No front-end JavaScript.
 
 ---
 <p>
@@ -53,7 +53,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 ![Stars](https://img.shields.io/github/stars/anthonybudd/s4?style=social)
 
 
-S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS. Tor acts as a DNS and [IPFS](https://github.com/ipfs/ipfs) acts as a CDN and will make your data permanently accessible and is almost impossible to take offline once it has been published. A [sidecar docker container](https://github.com/anthonybudd/s4-client)  is provided to seamlessly proxy requests from your existing S3 code over Tor to S4.
+S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS. Tor acts as a DNS and [IPFS](https://github.com/ipfs/ipfs) acts as a CDN and will make your data permanently accessible and is almost impossible to take offline. A [sidecar docker container](https://github.com/anthonybudd/s4-client) is provided to seamlessly proxy requests from your existing S3 code over Tor to S4. Basically it's self-hosted S3 that also makes the data accessible on IPFS.
 
 
 - [YouTube Tutorial](https://youtu.be/RMNjpAmCvcQ)
@@ -75,7 +75,7 @@ Class Product extends WP_Model
     public $postType = 'product';
     public $attributes = [
         'color',
-        'weight'
+        'price'
     ];
 }
 
@@ -84,7 +84,7 @@ Product::register();
 $book = new Product;
 $book->title = 'WordPress for dummies';
 $book->color = 'Yellow';
-$book->weight = 100;
+$book->price = 20;
 $book->save();
 ```
 
