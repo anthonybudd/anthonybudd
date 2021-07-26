@@ -10,7 +10,7 @@ I am an expert Node.js and PHP developer with over 10 years of experience buildi
 
 
 #### Hire Me
-I am currently available for hire for Node.js and PHP development services at a rate of $150 USD/hr (non-negotiable). Please contact me at [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=I%20would%20like%20to%20hire%20you.). 
+I am currently available for hire for Node.js and PHP development services at a rate of $100 USD/hr (non-negotiable). Please contact me at [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=I%20would%20like%20to%20hire%20you.). 
 
 <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png" alt="Talks">
