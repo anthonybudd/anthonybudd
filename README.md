@@ -71,7 +71,7 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_model?style=social)
 
 
-WP_Model is a pseudo ORM for WordPress, it provides an eloquent-esque active record style models of WordPress posts. 
+WP_Model is an advanced pseudo ORM for WordPress, it provides active-record models of WordPress posts in the style of Laravel's ORM eloquent.
 
 ```PHP
 Class Product extends WP_Model
