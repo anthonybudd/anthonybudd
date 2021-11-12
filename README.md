@@ -36,7 +36,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 
 ---
 <p>
-  <a href="https://github.com/anthonybudd/larachan"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/camera-spike.png?v=2"></a>
+  <a href="https://github.com/anthonybudd/camera-spike"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
 </p>
 
 ### [Camera Spike](https://github.com/anthonybudd/Camera-Spike)
