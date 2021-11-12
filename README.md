@@ -46,7 +46,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 
 Camera Spike is a basic self-hosted security camera project for the Raspberry Pi. A web UI is provided using Tor, this allows you to remotely monitor the feed without needing to register the device with a 3rd-party or without disclosing your IP address or the IP address of the Camera Spike. CLI tools are provided so you can easily create a custom onion v3 address.
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
