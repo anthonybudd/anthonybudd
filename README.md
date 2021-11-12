@@ -4,6 +4,7 @@
 
 I am an expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs. I like to build open-source projects that leverage alternative and emerging technologies to solve real world problems.
 
+
 - ⭐️ My projects have generated over 650 stars
 - 🤓 Worked at Apple, RedHat and LegalZoom
 - ✅ Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
@@ -32,6 +33,18 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 
 - [YouTube Tutorial](https://www.youtube.com/watch?v=Fq7h-cSN9i8)
 - Featured on [MadeWithVueJS.com](https://madewithvuejs.com/vipfs)
+
+---
+<p>
+  <a href="https://github.com/anthonybudd/larachan"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/camera-spike.png"></a>
+</p>
+
+### [Camera Spike](https://github.com/anthonybudd/Camera-Spike)
+![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
+![Stars](https://img.shields.io/github/stars/anthonybudd/Camera-Spike?style=social)
+
+
+Camera Spike is a basic self-hosted security camera project for the Raspberry Pi. A web UI is provided using Tor, this allows you to remotely monitor the feed without needing to register the device with a 3rd-party or without disclosing your IP address or the IP address of the Camera Spike. CLI tools are provided so you can easily create a custom onion v3 address.
 
 ---
 <p>
