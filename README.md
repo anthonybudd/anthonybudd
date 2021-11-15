@@ -81,6 +81,18 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 - [YouTube Tutorial](https://youtu.be/RMNjpAmCvcQ)
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
 
+---
+
+### [NGINX TOR Proxy](https://github.com/anthonybudd/nginx-tor-proxy)
+![Stars](https://img.shields.io/github/stars/anthonybudd/nginx-tor-proxy?style=social)
+
+<a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="75" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
+
+
+NGINX Tor Proxy is a simple container that exposes your containers with a custom Tor v3 Onion address.
+
+Tor vanity URLs generated using [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
+
 
 ---
 ### Archived Projects
