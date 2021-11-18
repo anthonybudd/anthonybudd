@@ -5,9 +5,9 @@
 I am an expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs. I like to build open-source projects that leverage alternative and emerging technologies to solve real world problems.
 
 
-- ⭐️  My projects have generated over 650 stars
-- 🤓  Worked at Apple, RedHat and LegalZoom
-- ✅  Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
+- ⭐️   My projects have generated over 650 stars
+- 🤓   Worked at Apple, RedHat and LegalZoom
+- ✅   Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
 <!--
@@ -15,12 +15,7 @@ I am an expert Node.js and PHP developer with over 10 years of experience buildi
 I am currently available for hire for Node.js and PHP development services at a rate of $150 USD/hr. Please contact me at [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=I%20would%20like%20to%20hire%20you.).
 -->
 
-<p align="center">
-  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png" alt="Talks">
-</p>
-
-
-## My Projects
+---
 
 <p>
   <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
@@ -91,9 +86,9 @@ NGINX Tor Proxy is a simple container that exposes your containers with a custom
 
 Tor vanity URLs generated using [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
 
-
 ---
-### Archived Projects
+
+### Archived
 
 #### [WP_Model](https://github.com/anthonybudd/wp_model)
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_model?style=social)
