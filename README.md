@@ -16,7 +16,7 @@ I am currently available for hire for Node.js and PHP development services at a 
 -->
 
 <p align="center">
-  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png" alt="Talks">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
 </p>
 
 
