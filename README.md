@@ -80,7 +80,7 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
 
 ---
-<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="50" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png"></a>
+<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="100" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
 
 ### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
