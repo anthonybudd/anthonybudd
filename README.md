@@ -20,8 +20,6 @@ I am currently available for hire for Node.js and PHP development services at a 
 </p>
 
 
----
-
 <p>
   <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 </p>
@@ -68,7 +66,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 ---
 <p>
-  <a href="https://github.com/anthonybudd/s4"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
+  <a href="https://github.com/anthonybudd/s4"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
 </p>
 
 ### [S4](https://github.com/anthonybudd/s4)
@@ -80,6 +78,14 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 
 - [YouTube Tutorial](https://youtu.be/RMNjpAmCvcQ)
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
+
+---
+<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="50" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png"></a>
+
+### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
+
+
+This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
 
 ---
 <a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="50" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
