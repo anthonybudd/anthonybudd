@@ -10,10 +10,8 @@ I am an expert Node.js and PHP developer with over 10 years of experience buildi
 - ✅  Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
-<!--
 #### Hire Me
-I am currently available for hire for Node.js and PHP development services at a rate of $150 USD/hr. Please contact me at [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=I%20would%20like%20to%20hire%20you.).
--->
+I am currently available for hire for Node.js and PHP development and technical consultancy services at a rate of $200 USD/hr paid in crypto (non-negotable). Please contact me at [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=I%20would%20like%20to%20hire%20you.).
 
 <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
@@ -80,7 +78,7 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
 
 ---
-<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="100" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
+<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
 
 ### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
@@ -88,7 +86,7 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
 
 ---
-<a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="50" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
+<a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="75" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
 
 ### [NGINX TOR Proxy](https://github.com/anthonybudd/nginx-tor-proxy)
 
