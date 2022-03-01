@@ -31,6 +31,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 
 - [YouTube Tutorial](https://www.youtube.com/watch?v=Fq7h-cSN9i8)
 - Featured on [MadeWithVueJS.com](https://madewithvuejs.com/vipfs)
+- Featured on [BestOfVue.com](https://bestofvue.com/repo/Ideea-inc-vipfs)
 
 ---
 <p>
