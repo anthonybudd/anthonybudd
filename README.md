@@ -19,6 +19,17 @@ I am currently available for hire for Node.js/PHP development and technical cons
 
 
 <p>
+  <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
+</p>
+
+### [OSCA. Open-Source Crypto ATM](https://github.com/anthonybudd/Open-Source-Crypto-ATM)
+![Stars](https://img.shields.io/github/stars/anthonybudd/Open-Source-Crypto-ATM?style=social)
+
+
+A crypto-currency ATM that someone with minimal electro-mechanical skill can build at home with parts from Amazon and hardware from Lowes. The user inserts cash and the machine returns a cold wallet loaded with the desired amount of crypto-currency. OSCA does not require you to disclose any personal information to use this ATM.
+
+---
+<p>
   <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 </p>
 
