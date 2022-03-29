@@ -5,9 +5,9 @@
 I am an expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs. I like to build open-source projects that leverage alternative and emerging technologies to solve real world problems.
 
 
-- ⭐️  My projects have generated over 700 stars
-- 🤓  Worked at Apple, RedHat and LegalZoom
-- ✅  Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
+- My projects have generated over 700 stars
+- Worked at Apple, RedHat and LegalZoom
+- Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
 #### Hire Me
