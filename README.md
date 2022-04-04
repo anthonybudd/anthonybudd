@@ -10,9 +10,6 @@ I am an expert Node.js and PHP developer with over 10 years of experience buildi
 - Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
-#### Hire Me
-I am currently available for hire for Node.js/PHP development and technical consultancy services at a rate of $200 USD/hr paid in crypto (Non-negotiable. No seriously... if this does not work for you **DO NOT** contact me). Please send a project brief to [anthonybudd94@gmail.com](mailto:anthonybudd94@gmail.com?subject=I%20would%20like%20to%20hire%20you.).
-
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
 </p> -->
