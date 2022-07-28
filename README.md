@@ -2,7 +2,7 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-I am an expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs. I like to build open-source projects that leverage alternative and emerging technologies to solve real world problems.
+Expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs.
 
 
 - My projects have generated over 700 stars
@@ -42,6 +42,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 - Featured on [BestOfVue.com](https://bestofvue.com/repo/Ideea-inc-vipfs)
 
 ---
+<!-- 
 <p>
   <a href="https://github.com/anthonybudd/camera-spike"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
 </p>
@@ -71,7 +72,8 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 - 🤖 **CAPTCHA**  - Self-hosted captchas.
 - 🚫 **No .JS**  - No front-end JavaScript.
 
----
+--- 
+-->
 <p>
   <a href="https://github.com/anthonybudd/s4"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
 </p>
