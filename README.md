@@ -97,6 +97,13 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
 
 ---
+<a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
+
+### [Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
+
+A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
+
+---
 <a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="75" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
 
 ### [NGINX TOR Proxy](https://github.com/anthonybudd/nginx-tor-proxy)
