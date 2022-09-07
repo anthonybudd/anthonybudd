@@ -2,7 +2,7 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-Expert Node.js and PHP developer with over 10 years of experience building, deploying and maintaining REST APIs.
+Expert Node.js and PHP developer with over 11 years of experience building, deploying and maintaining REST APIs.
 
 
 - My projects have generated over 700 stars
@@ -89,19 +89,23 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
 
 ---
+
+<table border="0" width="100%">
+  <tr>
+    <td>
 <a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
 
-### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
-
-
+### [Backend: Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
-
----
+    </td>
+    <td>
 <a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
 
-### [Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
-
+### [Frontend: Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
 A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
+    </td>
+  </tr>
+</table>
 
 ---
 <a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="75" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
