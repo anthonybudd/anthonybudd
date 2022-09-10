@@ -91,13 +91,13 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" border="0">
 <a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
 
 ### [Backend: Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
     </td>
-    <td width="50%">
+    <td width="50%" border="0">
 <a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
 
 ### [Frontend: Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
