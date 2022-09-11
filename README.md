@@ -13,11 +13,29 @@ Expert Node.js and PHP developer with over 11 years of experience building, depl
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
 </p> -->
-
 ## My Projects
+<table width="100%">
+  <tr style="border: none">
+    <td width="50%" style="border: none">
+<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
+
+
+### [Backend: Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
+This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
+    </td>
+    <td width="50%" style="border: none">
+<a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
+
+### [Frontend: Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
+A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
+    </td>
+  </tr>
+</table>
+
 <p>
   <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
 </p>
+
 
 ### [OSCA. Open-Source Crypto ATM](https://github.com/anthonybudd/Open-Source-Crypto-ATM)
 ![Stars](https://img.shields.io/github/stars/anthonybudd/Open-Source-Crypto-ATM?style=social)
@@ -88,23 +106,7 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 - [YouTube Tutorial](https://youtu.be/RMNjpAmCvcQ)
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
 
-
-<table width="100%">
-  <tr style="border: none">
-    <td width="50%" style="border: none">
-<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
-
-### [Backend: Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
-This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
-    </td>
-    <td width="50%" style="border: none">
-<a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
-
-### [Frontend: Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
-A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
-    </td>
-  </tr>
-</table>
+---
 
 <a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="75" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
 
