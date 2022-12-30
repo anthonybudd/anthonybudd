@@ -10,10 +10,15 @@ Expert Node.js and PHP developer with over 11 years of experience building, depl
 - Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
+<!-- ## [Blog](/blog/blog.md) 
+- [All Gun Control is Intrinsically Immoral](blog/all-gun-control-is-intrinsically-immoral.md)
+- [The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
+- [@LouisRossmann You Do Not Have a Right to Repair.](blog/louisrossmann-you-do-not-have-a-right-to-repair.md) -->
+
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
 </p> -->
-## My Projects
+## Projects
 <table width="100%">
   <tr style="border: none">
     <td width="50%" style="border: none">
@@ -60,8 +65,26 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 - Featured on [BestOfVue.com](https://bestofvue.com/repo/Ideea-inc-vipfs)
 
 ---
-<!-- 
+
 <p>
+  <a href="https://github.com/anthonybudd/larachan"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
+</p>
+
+### [LaraChan](https://github.com/anthonybudd/larachan)
+![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/larachan?style=social)
+
+
+LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can be installed in 5 easy commands and is designed to be deployed on a Raspberry Pi. Many useful Artisan commands are provided so you can administrate your imageboard using the CLI.
+
+- 🧅 **Tor**  - DarkWeb ready. Built-in Tor proxy.
+- 🤖 **CAPTCHA**  - Self-hosted captchas.
+- 🚫 **No .JS**  - No front-end Java-Script.
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+--- 
+
+<!-- <p>
   <a href="https://github.com/anthonybudd/camera-spike"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
 </p>
 
@@ -74,24 +97,8 @@ Camera Spike is a basic self-hosted security camera project for the Raspberry Pi
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
----
+--- -->
 
-<p>
-  <a href="https://github.com/anthonybudd/larachan"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
-</p>
-
-### [LaraChan](https://github.com/anthonybudd/larachan)
-![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/larachan?style=social)
-
-
-LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can be installed in 5 easy commands and is designed to be deployed on a Raspberry Pi. Many useful Artisan commands are provided so you can administrate your imageboard using the CLI.
-
-- 🧅 **Tor**  - Built in Tor proxy
-- 🤖 **CAPTCHA**  - Self-hosted captchas.
-- 🚫 **No .JS**  - No front-end JavaScript.
-
---- 
--->
 <p>
   <a href="https://github.com/anthonybudd/s4"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
 </p>
@@ -118,6 +125,28 @@ NGINX Tor Proxy is a simple container that exposes your containers with a custom
 Tor vanity URLs generated using [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
 
 ---
+
+### [If](https://github.com/anthonybudd/If)
+
+A chainabale if library for JavaScript.
+
+This is totally pointless, but I prefur this kind of chain syntax over control-structure syntax.
+
+```js
+const myArr = ['a', 'b', 'c'];
+const result = new If(myArr.length < 2)
+    .then(() => ('Array less than 2'))
+    .elseif((myArr.length > 3), () => ('Array greater than 3'))
+    .else(() => ('Array has length 3'))
+    .do();
+
+console.log(result); // 'Array has length 3'
+```
+
+
+
+---
+
 
 ### Archived
 
