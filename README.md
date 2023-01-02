@@ -126,6 +126,18 @@ Tor vanity URLs generated using [cathugger/mkp224o](https://github.com/cathugger
 
 ---
 
+### [CLI Password Manager](https://github.com/anthonybudd/CLI-Password-Manager)
+
+CLI Password Manager gives you 4 simple commands for easily encrypting and decrypting a local password vault using OpenSSL.
+
+```js
+clipm-dec
+clipm-nano
+clipm-enc
+```
+
+---
+
 ### [If](https://github.com/anthonybudd/If)
 
 A chainabale if library for JavaScript.
