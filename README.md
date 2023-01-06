@@ -38,7 +38,26 @@ A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
 </table>
 
 <p>
-  <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
+  <a href="https://github.com/anthonybudd/tpm2"><img width="300" align='right' src="https://github.com/anthonybudd/TPM2/raw/main/docs/images/geek-pi-tmp2.png"></a>
+</p>
+
+
+### [TPM-node](https://github.com/anthonybudd/TPM2)
+![Stars](https://img.shields.io/github/stars/anthonybudd/TPM2?style=social)
+
+
+The only Node JS library for working with the Trusted Platform Module 2.0
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+---
+
+<p>
+  <a href="https://github.com/anthonybudd/Open-Source-Crypto-ATM"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
 </p>
 
 
@@ -49,6 +68,7 @@ A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
 A crypto-currency ATM that someone with minimal electro-mechanical skill can build at home with parts from Amazon and hardware from Lowes. The user inserts cash and the machine returns a cold wallet loaded with the desired amount of crypto-currency. OSCA does not require you to disclose any personal information to use this ATM.
 
 ---
+
 <p>
   <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 </p>
