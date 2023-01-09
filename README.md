@@ -2,7 +2,7 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-Expert Node.js and PHP developer with over 11 years of experience building, deploying and maintaining REST APIs.
+Expert Node.js and PHP developer with over 12 years of experience building, deploying and maintaining REST APIs.
 
 
 - My projects have generated over 700 stars
@@ -170,7 +170,7 @@ const result = new If(myArr.length < 2)
     .then(() => ('Array less than 2'))
     .elseif((myArr.length > 3), () => ('Array greater than 3'))
     .else(() => ('Array has length 3'))
-    .do();
+    .fi();
 
 console.log(result); // 'Array has length 3'
 ```
