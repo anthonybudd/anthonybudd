@@ -49,6 +49,7 @@ A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
 The only Node JS library for working with the Trusted Platform Module 2.0
 
 <br/>
+
 ```js
 const TPM2 = require('trusted-platform-module-2');
 const tpm2 = new TPM2;
