@@ -2,18 +2,18 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-Expert Node.js and PHP developer with over 12 years of experience building, deploying and maintaining REST APIs.
+Node.js and PHP Expert. 12 years experience working with embedded, distributed and clustered systems.
 
 
-- My projects have generated over 700 stars
+- My projects have generated over 800 stars
 - Worked at Apple, RedHat and LegalZoom
 - Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
-## Blog
+<!-- ## Blog
 - [An Analysis Of The Economic and Ethical Price Of Government Healthcare Systems](blog/an-analysis-of-the-economic-and-ethical-price-of-government-healthcare-systems.md)
 - [The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
-- [@LouisRossmann, You Do Not Have a Right to Repair](blog/louisrossmann-you-do-not-have-a-right-to-repair.md)
+- [@LouisRossmann, You Do Not Have a Right to Repair](blog/louisrossmann-you-do-not-have-a-right-to-repair.md) -->
 
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
