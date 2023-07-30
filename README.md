@@ -31,7 +31,7 @@ This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL
     <td width="50%" style="border: none">
 <a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
 
-### [Frontend: Vuetify SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
+### [Frontend: Vuetify3 SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
 A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
     </td>
   </tr>
