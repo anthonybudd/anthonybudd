@@ -67,7 +67,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 A crypto-currency ATM that someone with minimal electro-mechanical skill can build at home with parts from Amazon and hardware from Lowes. The user inserts cash and the machine returns a cold wallet loaded with the desired amount of crypto-currency. OSCA does not require you to disclose any personal information to use this ATM.
 
 ---
-
+<!-- 
 <p>
   <a href="https://github.com/anthonybudd/larachan"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
 </p>
@@ -84,7 +84,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
---- 
+---  -->
 
 <!-- <p>
   <a href="https://github.com/anthonybudd/camera-spike"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
