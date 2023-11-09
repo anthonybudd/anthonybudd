@@ -10,10 +10,13 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 - Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
-<!-- ## Blog
-- [An Analysis Of The Economic and Ethical Price Of Government Healthcare Systems](blog/an-analysis-of-the-economic-and-ethical-price-of-government-healthcare-systems.md)
-- [The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
-- [@LouisRossmann, You Do Not Have a Right to Repair](blog/louisrossmann-you-do-not-have-a-right-to-repair.md) -->
+## Blog
+- [8 Nov 23 - Getting a Raspberry Pi to re-flash its own SD card](blog/getting-a-raspberry-pi-to-re-flash-its-own-sd-card.md)
+- [24 Oct 23 - A Critical Analysis Of The Economic and Ethical Consequences Of Government Regulated Healthcare Systems](blog/a-critical-analysis-of-the-economic-and-ethical-consequences-of-government-regulated-healthcare-systems.md)
+- [15 Aug 22 - The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
+- [24th Oct 21 - @LouisRossmann, You Do Not Have a Right to Repair](blog/louisrossmann-you-do-not-have-a-right-to-repair.md)
+
+
 
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
@@ -22,14 +25,14 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 <table width="100%">
   <tr style="border: none">
     <td width="50%" style="border: none">
-<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
+<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"/></a>
 
 
 ### [Backend: Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
     </td>
     <td width="50%" style="border: none">
-<a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"></a>
+<a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"/></a>
 
 ### [Frontend: Vuetify3 SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
 A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
