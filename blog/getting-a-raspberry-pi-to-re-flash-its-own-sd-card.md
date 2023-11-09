@@ -1,7 +1,7 @@
 # Getting a Raspberry Pi to re-flash its own SD card
 
 <p align="center">
-  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/sd-cards.png" alt="SD Cards">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/sd-cards.png" alt="SD Cards">
 </p>
 
 I want to be able to remotely flash a Raspberry Pi's SD card while its running so I wouldn't need to physically remove the SD card each time. Below is a reliable method to re-flash a Raspberry Pi's own SD card. Caution, this will delete all data on the Pi and will restore to a factory version of your chosen OS.
