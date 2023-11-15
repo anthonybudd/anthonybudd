@@ -21,4 +21,6 @@ If nobody bought any John Deer farm equipment for a whole quarter, their stock p
 ### Conclusion
 I have just described a completely voluntary method for making products more repairable that does not require fighting well-funded lobbyists or asking for the Government’s help. Government regulation only increases barrier to entry which limits competition, which is bad for consumers.
 
-The government can not solve our problems, only the free-market can.
+The government cannot solve our problems, only the free-market can.
+
+[Louis Rossmann's Reply]()
