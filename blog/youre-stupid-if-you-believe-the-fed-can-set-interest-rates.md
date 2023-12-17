@@ -1,4 +1,4 @@
-# You're Stupid If You Believe The Fed Can Set Interest Rates.
+# You're Stupid If You Think The Fed Can Set Interest Rates.
 
 <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/man-in-dunce-cap.jpeg" alt="You (probbaly)">

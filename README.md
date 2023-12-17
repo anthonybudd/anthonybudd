@@ -11,7 +11,7 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 
 
 ## Blog
-- [**18 Dec 23** - You're Stupid If You Believe The Fed Can Set Interest Rates](blog/youre-stupid-if-you-believe-the-fed-can-set-interest-rates.md)
+- [**18 Dec 23** - You're Stupid If You Think The Fed Can Set Interest Rates](blog/youre-stupid-if-you-believe-the-fed-can-set-interest-rates.md)
 - [**8 Nov 23** - Getting a Raspberry Pi to re-flash its own SD card](blog/getting-a-raspberry-pi-to-re-flash-its-own-sd-card.md)
 - [**24 Oct 23** - A Critical Analysis Of The Economic and Ethical Consequences Of Government Regulated Healthcare Systems](blog/a-critical-analysis-of-the-economic-and-ethical-consequences-of-government-regulated-healthcare-systems.md)
 - [**15 Aug 22** - The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
