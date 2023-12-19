@@ -10,13 +10,13 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 - Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 
-## Blog
+<!-- ## Blog
 - [**18 Dec 23** - You're Stupid If You Think The Fed Can Set Interest Rates](blog/youre-stupid-if-you-believe-the-fed-can-set-interest-rates.md)
 - [**8 Nov 23** - Getting a Raspberry Pi to re-flash its own SD card](blog/getting-a-raspberry-pi-to-re-flash-its-own-sd-card.md)
 - [**24 Oct 23** - A Critical Analysis Of The Economic and Ethical Consequences Of Government Regulated Healthcare Systems](blog/a-critical-analysis-of-the-economic-and-ethical-consequences-of-government-regulated-healthcare-systems.md)
 - [**15 Aug 22** - The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
 - [**24th Oct 21** - @LouisRossmann, You Do Not Have a Right to Repair](blog/louisrossmann-you-do-not-have-a-right-to-repair.md)
-
+ -->
 
 
 <!-- <p align="center">
