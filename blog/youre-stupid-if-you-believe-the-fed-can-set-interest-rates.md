@@ -22,7 +22,7 @@ However this is far more insidious than meets the eye. All prices, and by extens
 
 ### Human Intervention
 
-The university educated financial professionals can wax poetic about the superiority of free-market based economic systems compared to the sluggish soviet planned economies of the 20th century. Why then do they not seem to mind when a human screws with our economy today? Especially when its having such disastrous consequences. There is no rational economic argument for a human to have this much control in our economy. The only logical explanation is academia and the financial elite are working hand-in-hand with the Government to first mislead under-graduates and then destroy the working persons economic future via Fed policy. Academia and the financial elite perpetuate these lies to financially oppress the average working person and misappropriate their wealth through economic chicanery. 
+The university educated financial professionals can wax poetic about the superiority of free-market based economic systems compared to the sluggish soviet planned economies of the 20th century. Why then do they not seem to mind when a human screws with our economy today? Especially when its having such disastrous consequences. There is no rational economic argument for a human to have control in our economy. The only logical explanation is academia and the financial elite are working hand-in-hand with the Government to first mislead under-graduates and then destroy the working persons economic future via Fed policy. Academia and the financial elite perpetuate these lies to financially oppress the average working person and misappropriate their wealth through economic chicanery. 
 
 ### Conclusion
 
