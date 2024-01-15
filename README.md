@@ -7,6 +7,7 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 
 - My projects have generated over 800 stars
 - Worked at Apple, RedHat and LegalZoom
+- UpWork Top Rated Developer
 - Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 <!--
@@ -22,6 +23,20 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
 </p> -->
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/anthonybudd">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/banner.png?v=20-12-21" alt="HireMe">
+  </a>
+  </br>
+  <a href="https://www.upwork.com/freelancers/anthonybudd">
+  UpWork.com/freelancers/AnthonyBudd
+  </a>
+</p>
+
+  
+
+
 ## Projects
 <table width="100%">
   <tr style="border: none">
