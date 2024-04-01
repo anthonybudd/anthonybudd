@@ -44,7 +44,7 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
   </a>
 </p>
 
-### [Building Enterprise-grade S3 provider from bare metal](https://github.com/anthonybudd/s3-from-scratch)
+### [Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
 
 For the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
 
@@ -53,6 +53,7 @@ For the past few years I’ve been thinking about how I could build SaaS and dep
 - [OpenWRT](https://openwrt.org/) - Raspberry Pi Router
 - [GitLab](https://gitlab.com/) - Source Control and CI/CD
 - [Minio](https://min.io/) - S3 compatible object store
+- [Ansible](https://www.ansible.com/) - Server provisioning
 
 ---
 
