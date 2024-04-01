@@ -38,23 +38,21 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 
 
 ## Projects
-<table width="100%">
-  <tr style="border: none">
-    <td width="50%" style="border: none">
-<a href="https://github.com/anthonybudd/express-api-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"/></a>
+<p>
+  <a href="https://github.com/anthonybudd/vipfs"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
+</p>
 
+### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
+![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
 
-### [Backend: Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
-This is a very simple REST API boilerplate using Express.js, Sequelize and MySQL.
-    </td>
-    <td width="50%" style="border: none">
-<a href="https://github.com/anthonybudd/Vuetify-SPA-boilerplate"><img height="75" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vuetify.png"/></a>
+Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL.
 
-### [Frontend: Vuetify3 SPA Boilerplate](https://github.com/anthonybudd/Vuetify-SPA-boilerplate)
-A very simple Vuetify boilerplate using Vue.js, Vuetify and Vuex.
-    </td>
-  </tr>
-</table>
+- 👥 Users, Groups and Roles
+- 🔐 Auth using JWT's with Passport.js
+- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-api-boilerplate/blob/master/k8s/Deploy.md)
+- 🥇 Real-world tested, generated over $50M in revenue
+
+---
 
 
 <p>
@@ -105,7 +103,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 ---  -->
 
-<!-- <p>
+<p>
   <a href="https://github.com/anthonybudd/camera-spike"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
 </p>
 
@@ -118,7 +116,7 @@ Camera Spike is a basic self-hosted security camera project for the Raspberry Pi
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
---- -->
+---
 
 <p>
   <a href="https://github.com/anthonybudd/s4"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
@@ -145,7 +143,7 @@ NGINX Tor Proxy is a simple container that exposes your containers with a custom
 
 Tor vanity URLs generated using [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
 
----
+<!-- ---
 
 ### [CLI Password Manager](https://github.com/anthonybudd/CLI-Password-Manager)
 
@@ -155,7 +153,7 @@ CLI Password Manager gives you 4 simple commands for easily encrypting and decry
 clipm-dec
 clipm-nano
 clipm-enc
-```
+``` -->
 
 ---
 
@@ -163,7 +161,7 @@ clipm-enc
 
 A chainabale if library for JavaScript.
 
-This is totally pointless, but I prefur this kind of chain syntax over control-structure syntax.
+This is totally pointless, I just wanted to see if I could build this because I prefur this kind of chain syntax over control-structure syntax.
 
 ```js
 const myArr = ['a', 'b', 'c'];
