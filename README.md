@@ -48,10 +48,10 @@ For the past few years I’ve been thinking about how I could build SaaS and dep
 
 - [Console](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/console.md) 
 - [Nodes](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/node.md)
-<!-- - [Networking](./sections/networking.md) -->
 - [Source Control: GitLab](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/gitlab.md)
 - [K3s: Production Cluster](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/production-cluster.md)
 - [K3s: Storage Cluster](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/storage-cluster.md)
+<!-- - [Networking](./sections/networking.md) -->
 
 <!-- - [K3s](https://www.rancher.com/products/k3s) - Container orchestration for ARM64v8
 - [Longhorn](https://longhorn.io/) - Persistent storage for Kubernetes
