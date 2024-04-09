@@ -38,28 +38,31 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 
 
 ## Projects
-<p>
-  <a href="https://github.com/anthonybudd/s3-from-scratch">
-    <img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
-  </a>
-</p>
+<a href="https://github.com/anthonybudd/s3-from-scratch">
+  <img width="300"  src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
+</a>
 
 ### [Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
 
 For the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
 
-- [K3s](https://www.rancher.com/products/k3s) - Container orchestration for ARM64v8
+- [Console](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/console.md) 
+- [Nodes](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/node.md)
+<!-- - [Networking](./sections/networking.md) -->
+- [Source Control: GitLab](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/gitlab.md)
+- [K3s: Production Cluster](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/production-cluster.md)
+- [K3s: Storage Cluster](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/storage-cluster.md)
+
+<!-- - [K3s](https://www.rancher.com/products/k3s) - Container orchestration for ARM64v8
 - [Longhorn](https://longhorn.io/) - Persistent storage for Kubernetes
 - [OpenWRT](https://openwrt.org/) - Raspberry Pi Router
 - [GitLab](https://gitlab.com/) - Source Control and CI/CD
 - [Minio](https://min.io/) - S3 compatible object store
-- [Ansible](https://www.ansible.com/) - Server provisioning
+- [Ansible](https://www.ansible.com/) - Server provisioning -->
 
 ---
 
-<p>
-  <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
-</p>
+<a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
 
 ### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 ![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
@@ -73,10 +76,7 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 
 ---
 
-
-<p>
-  <a href="https://github.com/anthonybudd/vipfs"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
-</p>
+<a href="https://github.com/anthonybudd/vipfs"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 
 ### [VIPFS](https://github.com/anthonybudd/vipfs)
 ![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
@@ -91,9 +91,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 
 ---
 
-<p>
-  <a href="https://github.com/anthonybudd/Open-Source-Crypto-ATM"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
-</p>
+<a href="https://github.com/anthonybudd/Open-Source-Crypto-ATM"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
 
 
 ### [OSCA. Open-Source Crypto ATM](https://github.com/anthonybudd/Open-Source-Crypto-ATM)
@@ -122,9 +120,8 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 ---  -->
 
-<p>
-  <a href="https://github.com/anthonybudd/camera-spike"><img width="300" align='right' src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
-</p>
+<a href="https://github.com/anthonybudd/camera-spike"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
+
 
 ### [Camera Spike](https://github.com/anthonybudd/Camera-Spike)
 ![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
@@ -137,9 +134,8 @@ Camera Spike is a basic self-hosted security camera project for the Raspberry Pi
 
 ---
 
-<p>
-  <a href="https://github.com/anthonybudd/s4"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
-</p>
+<a href="https://github.com/anthonybudd/s4"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
+
 
 ### [S4](https://github.com/anthonybudd/s4)
 ![Stars](https://img.shields.io/github/stars/anthonybudd/s4?style=social)
