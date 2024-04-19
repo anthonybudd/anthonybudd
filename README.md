@@ -8,7 +8,7 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 - My projects have generated over 800 stars
 - Worked at Apple, RedHat and LegalZoom
 - UpWork Top Rated Developer
-- Laravel Framework Contributor [PR:28849](https://github.com/laravel/framework/pull/28849) merged by [Taylor Otwell](https://github.com/taylorotwell)
+- Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 <!--
 ## Blog
