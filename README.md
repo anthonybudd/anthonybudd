@@ -10,15 +10,6 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 - UpWork Top Rated Developer
 - Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
 
-<!--
-## Blog
-- [**18 Dec 23** - You're Stupid If You Think The Fed Can Set Interest Rates](blog/youre-stupid-if-you-believe-the-fed-can-set-interest-rates.md)
-- [**8 Nov 23** - Getting a Raspberry Pi to re-flash its own SD card](blog/getting-a-raspberry-pi-to-re-flash-its-own-sd-card.md)
-- [**24 Oct 23** - A Critical Analysis Of The Economic and Ethical Consequences Of Government Regulated Healthcare Systems](blog/a-critical-analysis-of-the-economic-and-ethical-consequences-of-government-regulated-healthcare-systems.md)
-- [**15 Aug 22** - The Protection of Children in an Anarchist Society](blog/protection-of-children-in-an-anarchist-society.md)
-- [**24th Oct 21** - @LouisRossmann, You Do Not Have a Right to Repair](blog/louisrossmann-you-do-not-have-a-right-to-repair.md)
--->
-
 
 <!-- <p align="center">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
@@ -42,23 +33,9 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
   <img width="300"  src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
 </a>
 
-### [Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
+### [An Attempt At Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
 
-For the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
-
-- [Console](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/console.md) 
-- [Nodes](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/node.md)
-- [Source Control: GitLab](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/gitlab.md)
-- [K3s: Production Cluster](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/production-cluster.md)
-- [K3s: Storage Cluster](https://github.com/anthonybudd/s3-from-scratch/blob/master/sections/storage-cluster.md)
-<!-- - [Networking](./sections/networking.md) -->
-
-<!-- - [K3s](https://www.rancher.com/products/k3s) - Container orchestration for ARM64v8
-- [Longhorn](https://longhorn.io/) - Persistent storage for Kubernetes
-- [OpenWRT](https://openwrt.org/) - Raspberry Pi Router
-- [GitLab](https://gitlab.com/) - Source Control and CI/CD
-- [Minio](https://min.io/) - S3 compatible object store
-- [Ansible](https://www.ansible.com/) - Server provisioning -->
+Over the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
 
 ---
 
@@ -67,14 +44,26 @@ For the past few years I’ve been thinking about how I could build SaaS and dep
 ### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 ![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
 
-Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL.
+Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL. 
 
 - 👥 Users, Groups and Roles
 - 🔐 Auth using JWT's with Passport.js
-- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-api-boilerplate/blob/master/k8s/Deploy.md)
-- 🥇 Real-world tested, generated over $50M in revenue
+- 📄 MVC Code Generation
+- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-api-boilerplate/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-api-boilerplate/blob/master/OpenApiSpec.yml)
+<!-- - 🔌 OpenAPISpec Based Automated Client Library/SDK Generation with [openapitools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) -->
+- 🥇 Real world tested, generated over $50M in revenue
+
+| Method      | Route                                                    | Description                           | Payload                               | Response          | 
+| ----------- | -------------------------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------- |  
+| POST        | `/api/v1/auth/login`                                     | Login                                 | {email, password}                     | {accessToken}     |  
+| POST        | `/api/v1/auth/sign-up`                                   | Sign-up                               | {email, password, firstName, tos}     | {accessToken}     |  
+| GET         | `/api/v1/user`                                           | Get the current user                  |                                       | {User}            |  
+| POST        | `/api/v1/user`                                           | Update the current user               | {firstName, lastName}                 | {User}            |  
+|             | [All Routes](https://github.com/anthonybudd/express-api-boilerplate?tab=readme-ov-file#routes) |  |  |  |  
+
 
 ---
+
 
 <a href="https://github.com/anthonybudd/vipfs"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 
