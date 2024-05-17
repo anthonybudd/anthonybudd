@@ -50,7 +50,7 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 - 🔐 Auth using JWT's with Passport.js
 - 📄 MVC Code Generation
 - 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-api-boilerplate/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-api-boilerplate/blob/master/OpenApiSpec.yml)
-<!-- - 🔌 OpenAPISpec Based Automated Client Library/SDK Generation with [openapitools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) -->
+- 🔌 Automated Client Library/SDK Generation with [openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)
 - 🥇 Real world tested, generated over $50M in revenue
 
 | Method      | Route                                                    | Description                           | Payload                               | Response          | 
