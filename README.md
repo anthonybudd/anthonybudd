@@ -38,13 +38,15 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
 Over the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
 
 ---
+### [Express.js API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
-<a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a>
+| <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> | <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=1"></a> |
+| -- | -- |
 
-### [Express API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
-![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
 
-Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL. 
+![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat) ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
+
+Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL.
 
 - 👥 Users, Groups and Roles
 - 🔐 Auth using JWT's with Passport.js
@@ -55,10 +57,10 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 
 | Method      | Route                                                    | Description                           | Payload                               | Response          | 
 | ----------- | -------------------------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------- |  
-| POST        | `/api/v1/auth/login`                                     | Login                                 | {email, password}                     | {accessToken}     |  
-| POST        | `/api/v1/auth/sign-up`                                   | Sign-up                               | {email, password, firstName, tos}     | {accessToken}     |  
-| GET         | `/api/v1/user`                                           | Get the current user                  |                                       | {User}            |  
-| POST        | `/api/v1/user`                                           | Update the current user               | {firstName, lastName}                 | {User}            |  
+| `POST`        | `/api/v1/auth/login`                                     | Login                                 | `{email, password}`                     | `{accessToken}`     |  
+| `POST`        | `/api/v1/auth/sign-up`                                   | Sign-up                               | `{email, password, firstName, tos}`     | `{accessToken}`     |  
+| `GET `         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
+| `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
 |             | [All Routes](https://github.com/anthonybudd/express-api-boilerplate?tab=readme-ov-file#routes) |  |  |  |  
 
 
