@@ -2,10 +2,10 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-Node.js and PHP Expert. 12 years experience working with embedded, distributed and clustered systems.
+Retired Node.js and PHP Expert.
 
 
-- My projects have generated over 800 stars
+- Awarded over 1000 stars on GitHub
 - Worked at Apple, RedHat and LegalZoom
 - UpWork Top Rated Developer
 - Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
@@ -15,7 +15,7 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.upwork.com/freelancers/anthonybudd">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/banner.png?v=20-12-21" alt="HireMe">
   </a>
@@ -23,7 +23,7 @@ Node.js and PHP Expert. 12 years experience working with embedded, distributed a
   <a href="https://www.upwork.com/freelancers/anthonybudd">
   UpWork.com/freelancers/AnthonyBudd
   </a>
-</p>
+</p> -->
 
   
 
