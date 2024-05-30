@@ -2,7 +2,7 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-Retired Node.js and PHP Expert.
+Node.js and PHP Expert. Over 12 years nuilding SaaS and REST APIs.
 
 
 - Awarded over 1000 stars on GitHub
