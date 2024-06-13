@@ -2,22 +2,18 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-<h2 align="center">
+<h3 align="center">
 
 | [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd/)  | [Instagram](https://www.instagram.com/anthonybudd_dev/) |
 
-</h2>
+</h3>
 
 REST API & SaaS MVP Specialist. Over 12 years of experience building web technology with PHP, Javascript and TypeScript.
 
-
-⭐️ My projects have generated over 1000 stars
-
-🏢 Worked at Apple, RedHat and LegalZoom
-
-🥇 UpWork Top Rated Developer
-
-✅ Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
+- ⭐️ My projects have generated over 1000 stars
+- 🏢 Worked at Apple, RedHat and LegalZoom
+- 🥇 UpWork Top Rated Developer
+- ✅ Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 ---
 <p align="center">
@@ -107,7 +103,7 @@ VIPFS is a simple boilerplate project for creating permanent decentralised apps,
 A crypto-currency ATM that someone with minimal electro-mechanical skill can build at home with parts from Amazon and hardware from Lowes. The user inserts cash and the machine returns a cold wallet loaded with the desired amount of crypto-currency. OSCA does not require you to disclose any personal information to use this ATM.
 
 ---
-<!-- 
+
 <p>
   <a href="https://github.com/anthonybudd/larachan"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
 </p>
@@ -124,7 +120,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
----  -->
+--- 
 
 <a href="https://github.com/anthonybudd/camera-spike"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
 
