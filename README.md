@@ -2,42 +2,45 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-Node.js and PHP Expert. Over 12 years nuilding SaaS and REST APIs.
+<h3 align="center">
+
+| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd/)  | [Instagram](https://www.instagram.com/anthonybudd_dev/) |
+
+</h3>
+
+REST API & SaaS MVP Specialist. Over 12 years of experience building web technology with PHP, Javascript and TypeScript.
 
 
-- Awarded over 1000 stars on GitHub
-- Worked at Apple, RedHat and LegalZoom
-- UpWork Top Rated Developer
-- Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
+⭐️ My projects have generated over 1000 stars
+🏢 Worked at Apple, RedHat and LegalZoom
+🥇 UpWork Top Rated Developer
+✅ Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
 
-
-<!-- <p align="center">
-  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/talks.png?v=20-12-21" alt="Talks">
-</p> -->
-
-<!-- <p align="center">
+---
+<p align="center">
   <a href="https://www.upwork.com/freelancers/anthonybudd">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/banner.png?v=20-12-21" alt="HireMe">
   </a>
   </br>
+  <!-- <a href="https://www.upwork.com/freelancers/anthonybudd">
+  UpWork.com/freelancers/AnthonyBudd
+  </a> -->
+</p>
+
+| <a href="https://www.upwork.com/services/product/development-it-on-prem-cryptocurrency-exchange-infrastructure-1729571406733246464"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-infra.png?v=1"></a> | <a href="https://www.upwork.com/services/product/development-it-bespoke-node-js-enterprise-grade-saas-mvp-1718712762925244416"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-mvp.png?v=1"></a>|
+| -- | -- |
+
+<p align="center">
   <a href="https://www.upwork.com/freelancers/anthonybudd">
   UpWork.com/freelancers/AnthonyBudd
   </a>
-</p> -->
+</p>
 
-  
+---
 
 
 ## Projects
-<a href="https://github.com/anthonybudd/s3-from-scratch">
-  <img width="300"  src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
-</a>
 
-### [An Attempt At Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
-
-Over the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
-
----
 ### [Express.js API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
 | <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> | <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=1"></a> |
@@ -66,6 +69,15 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 
 ---
 
+<a href="https://github.com/anthonybudd/s3-from-scratch">
+  <img width="300"  src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
+</a>
+
+### [An Attempt At Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
+
+Over the past few years I’ve been thinking about how I could build SaaS and deploy it on my own infrastructure without needing to use any cloud platforms like AWS or GCP. In this repo I document my progress on building a clone of AWS S3 that functions the same as S3 (automated bucket deployment, dynamically expanding volumes, security, etc) using an exclusively open-source technology stack.
+
+---
 
 <a href="https://github.com/anthonybudd/vipfs"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 
