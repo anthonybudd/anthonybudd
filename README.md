@@ -36,7 +36,7 @@ REST API & SaaS MVP Specialist. Over 12 years of experience building web technol
 </p>
 
 
-# Projects
+# My Open-Source Projects
 
 ### [Express.js API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
@@ -103,7 +103,7 @@ A crypto-currency ATM that someone with minimal electro-mechanical skill can bui
 ---
 
 <p>
-  <a href="https://github.com/anthonybudd/larachan"><img width="300" align="right" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
+  <a href="https://github.com/anthonybudd/larachan"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
 </p>
 
 ### [LaraChan](https://github.com/anthonybudd/larachan)
@@ -120,7 +120,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 --- 
 
-<a href="https://github.com/anthonybudd/camera-spike"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png"></a>
+<a href="https://github.com/anthonybudd/camera-spike"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png?v=1"></a>
 
 
 ### [Camera Spike](https://github.com/anthonybudd/Camera-Spike)
@@ -176,7 +176,7 @@ clipm-enc
 
 A chainabale if library for JavaScript.
 
-This is totally pointless, I just wanted to see if I could build this because I prefur this kind of chain syntax over control-structure syntax.
+This is totally pointless, I just wanted to see if I could build this because I think this kind of chainable syntax looks better over control-structure syntax in the `.then()` method of a promise.
 
 ```js
 const myArr = ['a', 'b', 'c'];
@@ -194,7 +194,7 @@ console.log(result); // 'Array has length 3'
 ---
 
 
-### Archived
+### Archived Projects
 
 #### [WP_Model](https://github.com/anthonybudd/wp_model)
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_model?style=social)
