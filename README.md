@@ -4,16 +4,16 @@
 
 <h3 align="center">
 
-| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd/)  | [Instagram](https://www.instagram.com/anthonybudd_dev/) |
+| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [Instagram](https://www.instagram.com/anthonybudd_dev) | [Calendly](https://calendly.com/anthonybudd/30min) |
 
 </h3>
 
-REST API & SaaS MVP Specialist. Over 12 years of experience building web technology with PHP, Javascript and TypeScript.
+REST API & SaaS Specialist. Over 12 years of experience building web technology with PHP, Javascript and TypeScript.
 
 - ⭐️ My projects have generated over 1000 stars
 - 🏢 Worked at Apple, RedHat and LegalZoom
 - 🥇 UpWork Top Rated Developer
-- ✅ Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
+- ✅ Laravel Framework Contributor
 
 ---
 <p align="center">
@@ -26,14 +26,14 @@ REST API & SaaS MVP Specialist. Over 12 years of experience building web technol
   </a> -->
 </p>
 
-| <a href="https://www.upwork.com/services/product/development-it-on-prem-cryptocurrency-exchange-infrastructure-1729571406733246464"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-infra.png?v=1"></a> | <a href="https://www.upwork.com/services/product/development-it-bespoke-node-js-enterprise-grade-saas-mvp-1718712762925244416"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-mvp.png?v=1"></a>|
+| <a href="https://www.upwork.com/services/product/development-it-on-prem-cryptocurrency-exchange-infrastructure-1729571406733246464"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-infra.png?v=1"> I Can Build Your On-Prem Infrastructure.<br/>From $50,000</a> | <a href="https://www.upwork.com/services/product/development-it-bespoke-node-js-enterprise-grade-saas-mvp-1718712762925244416"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-mvp.png?v=1"> I Can Build Your App in 28 days.<br/>From $15,000</a>|
 | -- | -- |
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.upwork.com/freelancers/anthonybudd">
   UpWork.com/freelancers/AnthonyBudd
   </a>
-</p>
+</p> -->
 
 
 # My Open-Source Projects
