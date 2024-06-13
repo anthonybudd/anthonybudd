@@ -2,18 +2,21 @@
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg" alt="Header">
 </p>
 
-<h3 align="center">
+<h2 align="center">
 
 | [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd/)  | [Instagram](https://www.instagram.com/anthonybudd_dev/) |
 
-</h3>
+</h2>
 
 REST API & SaaS MVP Specialist. Over 12 years of experience building web technology with PHP, Javascript and TypeScript.
 
 
 ⭐️ My projects have generated over 1000 stars
+
 🏢 Worked at Apple, RedHat and LegalZoom
+
 🥇 UpWork Top Rated Developer
+
 ✅ Laravel Framework Contributor PR:28849 merged by [Taylor Otwell](https://github.com/taylorotwell)
 
 ---
