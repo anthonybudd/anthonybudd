@@ -40,7 +40,7 @@ REST API & SaaS MVP Specialist. Over 12 years of experience building web technol
 
 ### [Express.js API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
-| <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> | <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=1"></a> |
+| <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> | <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=2"></a> |
 | -- | -- |
 
 
