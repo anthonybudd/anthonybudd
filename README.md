@@ -35,10 +35,8 @@ REST API & SaaS MVP Specialist. Over 12 years of experience building web technol
   </a>
 </p>
 
----
 
-
-## Projects
+# Projects
 
 ### [Express.js API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
 
