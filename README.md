@@ -38,9 +38,9 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 
 # My Open-Source Projects
 
-### [Express.js API Boilerplate](https://github.com/anthonybudd/express-api-boilerplate)
+### [Express.js API Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate)
 
-| <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> | <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=2"></a> |
+| <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=2"></a> | <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> |
 | -- | -- |
 
 
@@ -61,7 +61,7 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 | `POST`        | `/api/v1/auth/sign-up`                                   | Sign-up                               | `{email, password, firstName, tos}`     | `{accessToken}`     |  
 | `GET `         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
-|             | [All Routes](https://github.com/anthonybudd/express-api-boilerplate?tab=readme-ov-file#routes) |  |  |  |  
+|             | [All Routes](https://github.com/anthonybudd/express-ts-api-boilerplate?tab=readme-ov-file#routes) |  |  |  |  
 
 
 ---
