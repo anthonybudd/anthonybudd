@@ -72,15 +72,20 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
   <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify-SPA-boilerplate/main/public/img/screenshots.png">
 </a>
 
+A minimal SaaS boilerplate built using Vuetify 3. This project was built to work out of the box with [AnthonyBudd/Express-TS-Api-Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate) as the backend.
 
-
-A minimal SaaS boilerplate built using Vuetify 3. This project was built to work with [AnthonyBudd/Express-TS-Api-Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate) as the backend.
-
-##### Pages
-- 🔐 Login, Sign-up, ForgotPassowrd
+- 🔐 Login, Sign-up, ForgotPassword
 - 📈 Dashboard
 - 👥 Manage Account/Group
-- 💾 CRUD Example
+- 💾 CRUD Model Example
+
+```sh
+git clone git@github.com:anthonybudd/Vuetify3-SaaS-Boilerplate.git
+cd Vuetify3-SaaS-Boilerplate
+cp .env.example .env
+npm i
+npm run dev
+```
 
 ---
 
@@ -138,7 +143,7 @@ LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can 
 
 --- 
 
-<a href="https://github.com/anthonybudd/camera-spike"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png?v=1"></a>
+<a href="https://github.com/anthonybudd/camera-spike"><img src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png?v=1"></a>
 
 
 ### [Camera Spike](https://github.com/anthonybudd/Camera-Spike)
