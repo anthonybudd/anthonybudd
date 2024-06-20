@@ -8,7 +8,7 @@
 
 </h3>
 
-REST API & SaaS Specialist. Over 12 years of experience building web technology with PHP, Javascript and TypeScript.
+REST API & SaaS Specialist. Over 12 years of experience building web technology with PHP, TypeScript and JavaScript.
 
 - ⭐️ My projects have generated over 1000 stars
 - 🏢 Worked at Apple, RedHat and LegalZoom
@@ -38,20 +38,18 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 
 # My Open-Source Projects
 
-### [Express.js API Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate)
+### [Express.ts API Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate)
 
-| <a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png?v=2"></a> | <a href="https://github.com/anthonybudd/express-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-api-boilerplate.png?v=1"></a> |
-| -- | -- |
+<a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png"></a>
 
-
-![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat) ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
+![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
 Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL.
 
 - 👥 Users, Groups and Roles
 - 🔐 Auth using JWT's with Passport.js
 - 📄 MVC Code Generation
-- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-api-boilerplate/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-api-boilerplate/blob/master/OpenApiSpec.yml)
+- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-ts-api-boilerplate/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-ts-api-boilerplate/blob/master/OpenApiSpec.yml)
 - 🔌 Automated Client Library/SDK Generation with [openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)
 - 🥇 Real world tested, generated over $50M in revenue
 
@@ -72,11 +70,11 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
   <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify-SPA-boilerplate/main/public/img/screenshots.png">
 </a>
 
-A minimal SaaS boilerplate built using Vuetify 3. This project was built to work out of the box with [AnthonyBudd/Express-TS-Api-Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate) as the backend.
+A minimal SaaS boilerplate built using Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate) as the backend.
 
 - 🔐 Login, Sign-up, ForgotPassword
 - 📈 Dashboard
-- 👥 Manage Account/Group
+- 👥 Manage Account & Groups
 - 💾 CRUD Model Example
 
 ```sh
