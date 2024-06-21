@@ -67,7 +67,7 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 ### [Vuetify 3 SaaS Boilerplate](https://github.com/anthonybudd/Vuetify3-SaaS-Boilerplate)
 
 <a href="https://github.com/anthonybudd/Vuetify3-SaaS-Boilerplate">
-  <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify-SPA-boilerplate/main/public/img/screenshots.png">
+  <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify3-SaaS-Boilerplate/main/public/img/screenshots.png?v=1">
 </a>
 
 A minimal SaaS boilerplate built using Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate) as the backend.
@@ -88,7 +88,7 @@ npm run dev
 ---
 
 <a href="https://github.com/anthonybudd/s3-from-scratch">
-  <img width="300"  src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
+  <img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
 </a>
 
 ### [An Attempt At Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
