@@ -38,18 +38,18 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 
 # My Open-Source Projects
 
-### [Express.ts API Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate)
+### [Express.ts API Template](https://github.com/anthonybudd/express-ts-api-template)
 
-<a href="https://github.com/anthonybudd/express-ts-api-boilerplate"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-boilerplate.png"></a>
+<a href="https://github.com/anthonybudd/express-ts-api-template"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-template.png"></a>
 
 ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
-Production-ready minimal REST API boilerplate using Express.js, Sequelize and MySQL.
+Production-ready minimal REST API template using Express.js, Sequelize and MySQL.
 
 - 👥 Users, Groups and Roles
 - 🔐 Auth using JWT's with Passport.js
 - 📄 MVC Code Generation
-- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-ts-api-boilerplate/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-ts-api-boilerplate/blob/master/OpenApiSpec.yml)
+- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-ts-api-template/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-ts-api-template/blob/master/OpenApiSpec.yml)
 - 🔌 Automated Client Library/SDK Generation with [openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)
 - 🥇 Real world tested, generated over $50M in revenue
 
@@ -59,18 +59,18 @@ Production-ready minimal REST API boilerplate using Express.js, Sequelize and My
 | `POST`        | `/api/v1/auth/sign-up`                                   | Sign-up                               | `{email, password, firstName, tos}`     | `{accessToken}`     |  
 | `GET `         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
-|             | [All Routes](https://github.com/anthonybudd/express-ts-api-boilerplate?tab=readme-ov-file#routes) |  |  |  |  
+|             | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
 
 
 ---
 
-### [Vuetify 3 SaaS Boilerplate](https://github.com/anthonybudd/Vuetify3-SaaS-Boilerplate)
+### [Vuetify 3 SaaS Template](https://github.com/anthonybudd/Vuetify3-SaaS-Template)
 
-<a href="https://github.com/anthonybudd/Vuetify3-SaaS-Boilerplate">
-  <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify3-SaaS-Boilerplate/main/public/img/screenshots.png?v=1">
+<a href="https://github.com/anthonybudd/Vuetify3-SaaS-Template">
+  <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify3-SaaS-Template/main/public/img/screenshots.png?v=1">
 </a>
 
-A minimal SaaS boilerplate built using Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Boilerplate](https://github.com/anthonybudd/express-ts-api-boilerplate) as the backend.
+A minimal SaaS template built using Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
 
 - 🔐 Login, Sign-up, ForgotPassword
 - 📈 Dashboard
@@ -78,8 +78,8 @@ A minimal SaaS boilerplate built using Vuetify 3. Built to work out of the box w
 - 💾 CRUD Model Example
 
 ```sh
-git clone git@github.com:anthonybudd/Vuetify3-SaaS-Boilerplate.git
-cd Vuetify3-SaaS-Boilerplate
+git clone git@github.com:anthonybudd/Vuetify3-SaaS-Template.git
+cd Vuetify3-SaaS-Template
 cp .env.example .env
 npm i
 npm run dev
@@ -104,7 +104,7 @@ Over the past few years I’ve been thinking about how I could build SaaS and de
 ![Stars](https://img.shields.io/github/stars/anthonybudd/VIPFS?style=social)
 
 
-VIPFS is a simple boilerplate project for creating permanent decentralised apps, blogs and websites that cannot be taken offline by anyone, including the government. VIPFS comes with useful templates and is pre-integrated with Bootstrap, FontAwesome and Video.js. Simply clone, compile and run  `npm run publish`  to deploy it on [IPFS](https://github.com/ipfs) and make your project permanently accesable to the world.
+VIPFS is a simple template project for creating permanent decentralised apps, blogs and websites that cannot be taken offline by anyone, including the government. VIPFS comes with useful templates and is pre-integrated with Bootstrap, FontAwesome and Video.js. Simply clone, compile and run  `npm run publish`  to deploy it on [IPFS](https://github.com/ipfs) and make your project permanently accesable to the world.
 
 - [YouTube Tutorial](https://www.youtube.com/watch?v=Fq7h-cSN9i8)
 - Featured on [MadeWithVueJS.com](https://madewithvuejs.com/vipfs)
