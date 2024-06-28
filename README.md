@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [Instagram](https://www.instagram.com/anthonybudd_dev) | [Calendly](https://calendly.com/anthonybudd/30min) |
+| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [YouTube](https://www.youtube.com/@anthonycbudd) | [Instagram](https://www.instagram.com/anthonybudd_dev) | [Calendly](https://calendly.com/anthonybudd/30min) |
 
 </h3>
 
@@ -14,6 +14,17 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 - 🏢 Worked at Apple, RedHat and LegalZoom
 - 🥇 UpWork Top Rated Developer
 - ✅ Laravel Framework Contributor
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3rvBe_5Y78o">
+  <img width="350" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/6hr-startup-yt.png" alt="YouTube">
+  </a>
+  </br>
+  <a href="https://youtu.be/3rvBe_5Y78o?si=b9UPv7suMAUyv5FP">
+  youtu.be/3rvBe_5Y78o
+  </a>
+</p>
 
 ---
 <p align="center">
