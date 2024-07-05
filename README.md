@@ -20,11 +20,14 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
   <a href="https://www.youtube.com/watch?v=3rvBe_5Y78o">
   <img width="350" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/6hr-startup-yt.png" alt="YouTube">
   </a>
-  </br>
-  <a href="https://youtu.be/3rvBe_5Y78o?si=b9UPv7suMAUyv5FP">
-  youtu.be/3rvBe_5Y78o
-  </a>
 </p>
+
+<h6 align="center">
+
+ [Coding a Live Start-up in 6hrs](https://youtu.be/3rvBe_5Y78o?si=b9UPv7suMAUyv5FP)  | [Frontend](https://github.com/anthonybudd/P.R.Box-UI)  | [Backend](https://github.com/anthonybudd/P.R.Box-API)
+
+</h6>
+
 
 ---
 <p align="center">
