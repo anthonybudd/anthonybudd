@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [YouTube](https://www.youtube.com/@anthonycbudd) | [Instagram](https://www.instagram.com/anthonybudd_dev) | [Calendly](https://calendly.com/anthonybudd/30min) |
+| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [YouTube](https://www.youtube.com/@anthonycbudd) | [Instagram](https://www.instagram.com/anthonybudd.io) | [Calendly](https://calendly.com/anthonybudd/30min) |
 
 </h3>
 
@@ -29,7 +29,7 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 </h6>
 
 
----
+# Work
 <p align="center">
   <a href="https://www.upwork.com/freelancers/anthonybudd">
   <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/banner.png?v=20-12-21" alt="HireMe">
@@ -67,13 +67,13 @@ Production-ready minimal REST API template using Express.js, Sequelize and MySQL
 - 🔌 Automated Client Library/SDK Generation with [openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)
 - 🥇 Real world tested, generated over $50M in revenue
 
-| Method      | Route                                                    | Description                           | Payload                               | Response          | 
-| ----------- | -------------------------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------- |  
+| Method        | Route                                                    | Description                           | Payload                               | Response          | 
+| ------------- | -------------------------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------- |  
 | `POST`        | `/api/v1/auth/login`                                     | Login                                 | `{email, password}`                     | `{accessToken}`     |  
 | `POST`        | `/api/v1/auth/sign-up`                                   | Sign-up                               | `{email, password, firstName, tos}`     | `{accessToken}`     |  
-| `GET `         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
+| `GET`         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
-|             | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
+|               | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
 
 
 ---
