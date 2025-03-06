@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500px" height="600px" viewBox="0 0 1500 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1500" height="600"></rect>
+
+        <linearGradient x1="70.711%" y1="70.711%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#5F3698" offset="0%"></stop>
+            <stop stop-color="#F76D8A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+
+            <!-- <circle fill="#C8B0B0" mask="url(#mask-2)" cx="300" cy="300" r="300">
+                <animate
+                    attributeName="fill"
+                    values="
+                        rgba(18, 0, 179, 1);
+                        rgba(255, 217, 168, 1);
+                        rgba(18, 0, 179, 1)"
+                    dur="25s"
+                    repeatCount="indefinite"/>
+
+                <animate attributeName="opacity"
+                    values="0;1;0" dur="10s"
+                    repeatCount="indefinite"/>
+
+                <animateMotion
+                    dur="10s"
+                    repeatCount="indefinite"
+                    path="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z" />
+            </circle> -->
+
+            <filter id="noise" x="0vw" y="0vh" width="100vw" height="100vh">
+    <feFlood flood-color="#808080" result="neutral-gray" />
+    <feTurbulence in="neutral-gray" type="fractalNoise" baseFrequency="0.3" seed="1" numOctaves="10" stitchTiles="stitch" result="noise" />
+    <feColorMatrix in="noise" type="saturate" values="0" result="destaturatedNoise"></feColorMatrix>
+    <feComponentTransfer in="desaturatedNoise" result="theNoise">
+        <feFuncA type="table" tableValues="0 0 0.2 0"></feFuncA>
+    </feComponentTransfer>
+    <feBlend in="SourceGraphic" in2="theNoise" mode="soft-light" result="noisy-image" />
+</filter>
+
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <path d="M43.1609477,607.210686 C-8.3455625,564.618679 -7.06854159,476.18956 12.5124458,417.777665 C32.9447804,356.931941 68.2756923,345.574073 140.640211,268.908461 C270.896344,131.802763 238.970821,82.7205455 323.679875,35.2608808 C418.179423,-17.8777182 541.199104,-3.27474442 619.948727,28.7706702 C696.995655,60.4104467 686.779488,90.8333086 804.265412,163.442539 C926.85942,239.702513 962.616005,221.448796 1003.055,276.615586 C1069.46009,367.072895 1030.29811,492.820725 1021.78464,520.809758 C1007.73741,566.241232 991.561813,617.757278 943.035018,650.613969 C873.650215,697.262357 817.461295,653.453436 736.15763,695.234167 C667.198501,730.524687 682.522752,775.144884 616.117664,829.906036 C519.489748,909.816753 344.537883,934.155043 276.004428,869.252937 C211.302035,808.001575 277.281448,700.101825 205.342604,646.557588 C151.707725,607.210686 95.0931315,650.613969 43.1609477,607.210686 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                <animate  repeatCount="indefinite" attributeName="d" dur="5s"
+                    values="M37.5,186c-12.1-10.5-11.8-32.3-7.2-46.7c4.8-15,13.1-17.8,30.1-36.7C91,68.8,83.5,56.7,103.4,45
+                    c22.2-13.1,51.1-9.5,69.6-1.6c18.1,7.8,15.7,15.3,43.3,33.2c28.8,18.8,37.2,14.3,46.7,27.9c15.6,22.3,6.4,53.3,4.4,60.2
+                    c-3.3,11.2-7.1,23.9-18.5,32c-16.3,11.5-29.5,0.7-48.6,11c-16.2,8.7-12.6,19.7-28.2,33.2c-22.7,19.7-63.8,25.7-79.9,9.7
+                    c-15.2-15.1,0.3-41.7-16.6-54.9C63,186,49.7,196.7,37.5,186z;
+                    
+                    M51,171.3c-6.1-17.7-15.3-17.2-20.7-32c-8-21.9,0.7-54.6,20.7-67.1c19.5-12.3,32.8,5.5,67.7-3.4C145.2,62,145,49.9,173,43.4
+                    c12-2.8,41.4-9.6,60.2,6.6c19,16.4,16.7,47.5,16,57.7c-1.7,22.8-10.3,25.5-9.4,46.4c1,22.5,11.2,25.8,9.1,42.6
+                    c-2.2,17.6-16.3,37.5-33.5,40.8c-22,4.1-29.4-22.4-54.9-22.6c-31-0.2-40.8,39-68.3,35.7c-17.3-2-32.2-19.8-37.3-34.8
+                    C48.9,198.6,57.8,191,51,171.3z;
+                    
+                    M37.5,186c-12.1-10.5-11.8-32.3-7.2-46.7c4.8-15,13.1-17.8,30.1-36.7C91,68.8,83.5,56.7,103.4,45
+                    c22.2-13.1,51.1-9.5,69.6-1.6c18.1,7.8,15.7,15.3,43.3,33.2c28.8,18.8,37.2,14.3,46.7,27.9c15.6,22.3,6.4,53.3,4.4,60.2
+                    c-3.3,11.2-7.1,23.9-18.5,32c-16.3,11.5-29.5,0.7-48.6,11c-16.2,8.7-12.6,19.7-28.2,33.2c-22.7,19.7-63.8,25.7-79.9,9.7
+                    c-15.2-15.1,0.3-41.7-16.6-54.9C63,186,49.7,196.7,37.5,186z	"/>
+                </path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -15,18 +15,9 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 - 🥇 UpWork Top Rated Developer
 - ✅ Laravel Framework Contributor
 
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=3rvBe_5Y78o">
-  <img width="350" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/6hr-startup-yt.png" alt="YouTube">
-  </a>
-</p>
-
-<h6 align="center">
-
- [Coding a Live Start-up in 6hrs](https://youtu.be/3rvBe_5Y78o?si=b9UPv7suMAUyv5FP)  | [Frontend](https://github.com/anthonybudd/P.R.Box-UI)  | [Backend](https://github.com/anthonybudd/P.R.Box-API)
-
-</h6>
+<!-- # Latest
+- [https://github.com/anthonybudd/3D-Printed-BLDC-Motor-Analysis]
+- [YouTube - Coding a Live Start-up in 6hrs](https://youtu.be/3rvBe_5Y78o?si=b9UPv7suMAUyv5FP)  | [Frontend](https://github.com/anthonybudd/P.R.Box-UI)  | [Backend](https://github.com/anthonybudd/P.R.Box-API) -->
 
 
 # Work
