@@ -49,10 +49,10 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 
 ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
-Production-ready minimal REST API template using Express.js, Sequelize and MySQL.
+Production-ready minimal REST API template using Express.js, Sequelize and MySQL. 
 
-- 👥 Users, Groups and Roles
-- 🔐 Auth using JWT's with Passport.js
+- 👥 MySQL Users M:M Groups
+- 🔐 Auth using JWT, optional 2FA
 - 📄 MVC Code Generation
 - 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-ts-api-template/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-ts-api-template/blob/master/OpenApiSpec.yml)
 - 🔌 Automated Client Library/SDK Generation with [openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)
