@@ -15,9 +15,6 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 - 🥇 UpWork Top Rated Developer
 - ✅ Laravel Framework Contributor
 
-<!-- # Latest
-- [https://github.com/anthonybudd/3D-Printed-BLDC-Motor-Analysis]
-- [YouTube - Coding a Live Start-up in 6hrs](https://youtu.be/3rvBe_5Y78o?si=b9UPv7suMAUyv5FP)  | [Frontend](https://github.com/anthonybudd/P.R.Box-UI)  | [Backend](https://github.com/anthonybudd/P.R.Box-API) -->
 
 
 # Work
@@ -41,7 +38,7 @@ REST API & SaaS Specialist. Over 12 years of experience building web technology 
 </p> -->
 
 
-# My Open-Source Projects
+# Projects
 
 ### [Express.ts API Template](https://github.com/anthonybudd/express-ts-api-template)
 
@@ -128,23 +125,6 @@ A crypto-currency ATM that someone with minimal electro-mechanical skill can bui
 
 ---
 
-<p>
-  <a href="https://github.com/anthonybudd/larachan"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/larachan.png"></a>
-</p>
-
-### [LaraChan](https://github.com/anthonybudd/larachan)
-![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/larachan?style=social)
-
-
-LaraChan is a simple 4chan-style imageboard built on Laravel 8. The project can be installed in 5 easy commands and is designed to be deployed on a Raspberry Pi. Many useful Artisan commands are provided so you can administrate your imageboard using the CLI.
-
-- 🧅 **Tor**  - DarkWeb ready. Built-in Tor proxy.
-- 🤖 **CAPTCHA**  - Self-hosted captchas.
-- 🚫 **No .JS**  - No front-end Java-Script.
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
---- 
 
 <a href="https://github.com/anthonybudd/camera-spike"><img src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png?v=1"></a>
 
