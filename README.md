@@ -282,4 +282,4 @@ $email = WP_Mail::init()
 
 
 
-🟨⬛️🐍
+<a href="https://u8views.com/github/anthonybudd"><img src="https://u8views.com/api/v1/github/profiles/7443012/views/total-count.svg"></a>
