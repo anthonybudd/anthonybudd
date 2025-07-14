@@ -8,11 +8,10 @@
 
 </h3>
 
-REST API & SaaS Specialist. Over 12 years of experience building web technology with PHP, TypeScript and JavaScript.
+REST API & SaaS Specialist. Over 13 years of experience building web technology with TypeScript, JavaScript and PHP.
 
-- ⭐️ My projects have generated over 1000 stars
 - 🏢 Worked at Apple, RedHat and LegalZoom
-- 🥇 UpWork Top Rated Developer
+- 🥇 UpWork Top-Rated & Expert-Vetted Developer
 - ✅ Laravel Framework Contributor
 
 
