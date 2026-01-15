@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [YouTube](https://www.youtube.com/@anthonycbudd) | [Instagram](https://www.instagram.com/anthonybudd.io) | [Calendly](https://calendly.com/anthonybudd/30min) |
+| [UpWork](https://www.upwork.com/freelancers/anthonybudd)  | [LinkedIn](https://www.linkedin.com/in/anthonybudd)  | [YouTube](https://www.youtube.com/@anthonycbudd) | [Calendly](https://calendly.com/anthonybudd/30min) |
 
 </h3>
 
