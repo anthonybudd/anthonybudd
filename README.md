@@ -65,22 +65,21 @@ Production-ready minimal REST API template using Express.js, Sequelize and MySQL
 
 ---
 
-### [Vuetify 3 SaaS Template](https://github.com/anthonybudd/Vuetify3-SaaS-Template)
+### [ShadCN Vue3 SaaS Template](https://github.com/anthonybudd/Shadcn-Vue-SaaS-Template)
 
-<a href="https://github.com/anthonybudd/Vuetify3-SaaS-Template">
-  <img src="https://raw.githubusercontent.com/anthonybudd/Vuetify3-SaaS-Template/main/public/img/screenshots.png?v=1">
+<a href="https://github.com/anthonybudd/Shadcn-Vue-SaaS-Template">
+  <img src="https://raw.githubusercontent.com/anthonybudd/Shadcn-Vue-SaaS-Template/refs/heads/master/public/static/screenshots.png">
 </a>
 
-A minimal SaaS template built using Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
+A minimal SaaS template built using ShadCN and Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
 
 - 🔐 Login, Sign-up, ForgotPassword
 - 📈 Dashboard
 - 👥 Manage Account & Groups
-- 💾 CRUD Model Example
 
 ```sh
-git clone git@github.com:anthonybudd/Vuetify3-SaaS-Template.git
-cd Vuetify3-SaaS-Template
+git clone git@github.com:anthonybudd/Shadcn-Vue-SaaS-Template.git
+cd Shadcn-Vue-SaaS-Template
 cp .env.example .env
 npm i
 npm run dev
