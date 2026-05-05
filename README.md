@@ -45,14 +45,14 @@ REST API & SaaS Specialist. Over 15 years of experience building web technology 
 
 ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
-Production-ready minimal REST API template using Express.js, Sequelize and MySQL. 
+Production-ready minimal REST API template using Express.ts, Sequelize and MySQL. 
 
-- 👥 MySQL Users M:M Groups
-- 🔐 Auth using JWT, optional 2FA
-- 📄 MVC Code Generation
-- 🌐 Production-ready [Kubernetes config files](https://github.com/anthonybudd/express-ts-api-template/blob/master/k8s/Deploy.md) and [OpenApiSpec.yml](https://github.com/anthonybudd/express-ts-api-template/blob/master/OpenApiSpec.yml)
-- 🔌 Automated Client Library/SDK Generation with [openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli)
-- 🥇 Real world tested, generated over $50M in revenue
+- 🔑 Auth using JWT's with Passport.js. Optional 2FA.
+- ✅ Full Test Coverage with Mocha.js
+- 🔒 Local SSL Termination with NGINX. Optional.
+- 👥 Simple DB Structure: `Users` -⚟ `GroupsUsers` ⚞- `Groups`
+- 🖥️ ShadCN x Vue3 UI: [AnthonyBudd/Shadcn-Vue-SaaS-Template](https://github.com/anthonybudd/Shadcn-Vue-SaaS-Template)
+- 🥇 Real-World Tested. Handled Over $50M Live Transactions!
 
 | Method        | Route                                                    | Description                           | Payload                               | Response          | 
 | ------------- | -------------------------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------- |  
@@ -71,15 +71,17 @@ Production-ready minimal REST API template using Express.js, Sequelize and MySQL
   <img src="https://raw.githubusercontent.com/anthonybudd/Shadcn-Vue-SaaS-Template/refs/heads/master/public/static/screenshots.png">
 </a>
 
-A minimal SaaS template built using ShadCN and Vuetify 3. Built to work out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
+A minimal SaaS UI template built with ShadCN and Vue3. Works out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
 
-- 🔐 Login, Sign-up, ForgotPassword
+- 🔐 Login, Sign-up, Forgot Password
+- 👥 Manage Account, Groups & Roles.
+- ⚫️ Dark or Light Theme
 - 📈 Dashboard
-- 👥 Manage Account & Groups
 
 ```sh
 git clone git@github.com:anthonybudd/Shadcn-Vue-SaaS-Template.git
 cd Shadcn-Vue-SaaS-Template
+
 cp .env.example .env
 npm i
 npm run dev
