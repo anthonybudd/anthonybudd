@@ -47,6 +47,7 @@ REST API & SaaS Specialist. Over 15 years of experience building web technology 
 
 Production-ready minimal REST API template using Express.ts, Sequelize and MySQL. 
 
+- 🤖 **NO AI WAS USED IN THIS PROJECT**
 - 🔑 Auth using JWT's with Passport.js. Optional 2FA.
 - ✅ Full Test Coverage with Mocha.js
 - 🔒 Local SSL Termination with NGINX. Optional.
