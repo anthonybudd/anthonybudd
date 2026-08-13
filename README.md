@@ -67,7 +67,7 @@ Production-ready minimal REST API template using Express.ts, Sequelize and MySQL
 
 ### [Laravel Lite](https://github.com/anthonybudd/Laravel-Lite)
 
-<a href="https://github.com/anthonybudd/Laravel-Lite"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/7917ae3c42ea009c972a9eac82b2d76a1c2b3677/public/logo.svg"></a>
+<a href="https://github.com/anthonybudd/Laravel-Lite"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/refs/heads/master/public/logo.svg?v=1"></a>
 
 ![Language](https://img.shields.io/badge/Language-php-success?style=flat)
 
