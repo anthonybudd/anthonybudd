@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg?v=5" alt="Header">
+  <img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg?v=5" alt="Header">
 </p>
 
 <h3 align="center">
@@ -62,6 +62,28 @@ Production-ready minimal REST API template using Express.ts, Sequelize and MySQL
 | `GET`         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
 |               | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
+
+---
+
+### [Laravel Lite](https://github.com/anthonybudd/Laravel-Lite)
+
+<a href="https://github.com/anthonybudd/Laravel-Lite"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/7917ae3c42ea009c972a9eac82b2d76a1c2b3677/public/logo.svg"></a>
+
+![Language](https://img.shields.io/badge/Language-php-success?style=flat)
+
+A super minimal microservice template using Illuminate components for rapid prototyping of Laravel projects.
+
+- 🐘 Built Using Laravel Illuminate Components
+- 🚀 Super Minimal. Crazy-Fast Cold Starts
+- ✅ Tests Using PHPUnit
+
+```php
+use Illuminate\Http\Response;
+
+$router->get('/', function () {
+    return new Response("Hello World", 200); 
+});
+```
 
 
 ---
