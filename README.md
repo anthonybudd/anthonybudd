@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg?v=5" alt="Header">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg?v=5" alt="Header">
 </p>
 
 <h3 align="center">

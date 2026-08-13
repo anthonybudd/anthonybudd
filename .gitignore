@@ -2,3 +2,4 @@
 img/test.svg
 blog/not-yet.md
 blog/*.md
+.DS_Store
