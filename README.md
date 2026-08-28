@@ -87,6 +87,20 @@ $router->get('/', function () {
 
 
 ---
+### [Ai with PHP](https://github.com/anthonybudd/Ai-with-PHP)
+
+<a href="https://github.com/anthonybudd/Ai-with-PHP"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ai-with-php.png"></a>
+
+![Language](https://img.shields.io/badge/Language-php-success?style=flat)
+
+Some experiments using PHP with the [PHP-FANN](https://github.com/bukka/php-fann) extension to find out how difficult it is to build Ai with PHP.
+
+- 🐘 OCR using PHP
+- ▶️ [YouTube Video](https://youtu.be/sh04d1Z8Qgg)
+- 💻 Web UI for testing models
+
+
+---
 
 ### [ShadCN Vue3 SaaS Template](https://github.com/anthonybudd/Shadcn-Vue-SaaS-Template)
 
