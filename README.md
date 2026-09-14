@@ -15,6 +15,9 @@ REST API & SaaS Specialist. Over 15 years of experience building web technology 
 - ✅ Laravel Framework Contributor
 
 
+# YouTube
+| <a href="https://www.youtube.com/watch?v=yQP7KTeFAAs"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ts-cpu.png?v=1">Building a CPU with TypeScript</a> | <a href="https://www.youtube.com/watch?v=sh04d1Z8Qgg"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ai-with-php.png?v=1">Building AI... but using PHP not Python</a> | <a href="https://www.youtube.com/watch?v=Ue6Nr_FEFWI"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-laravel.png?v=1">Laravel Lite - The World's Smallest Laravel Instance</a> |
+| -- | -- | -- |
 
 # Work
 <p align="center">
