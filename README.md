@@ -90,6 +90,26 @@ $router->get('/', function () {
 
 
 ---
+### [Building a CPU, Language & Compiler in TypeScript](https://github.com/anthonybudd/TS-CPU)
+
+<a href="https://github.com/anthonybudd/TS-CPU"><img width="400" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ts-cpu-cover.png?v=2"></a>
+
+![Language](https://img.shields.io/badge/Language-typescript-success?style=flat)
+
+A CPU implemented in TypeScript with a custom programming language and compiler.
+
+- ▶️ [YouTube Tutorial Video](https://youtu.be/yQP7KTeFAAs)
+- 💾 Custom Programing Language
+- 💻 Compiler written in TypeScript
+
+```ts
+const cpu = new CPU();
+cpu.loadProgram(Compiler.compile("./program.ass"));
+cpu.run();
+```
+
+
+---
 ### [Ai with PHP](https://github.com/anthonybudd/Ai-with-PHP)
 
 <a href="https://github.com/anthonybudd/Ai-with-PHP"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ai-with-php.png"></a>
