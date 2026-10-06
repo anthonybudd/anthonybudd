@@ -15,8 +15,9 @@ REST API & SaaS Specialist. Over 15 years of experience building web technology 
 - ✅ Laravel Framework Contributor
 
 
+
 # YouTube
-| <a href="https://www.youtube.com/watch?v=yQP7KTeFAAs"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ts-cpu.png?v=1">Building a CPU, Language & Compiler with TypeScript</a> | <a href="https://www.youtube.com/watch?v=sh04d1Z8Qgg"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ai-with-php.png?v=1">Building AI... but using PHP not Python</a> | <a href="https://www.youtube.com/watch?v=Ue6Nr_FEFWI"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-laravel.png?v=1">Laravel Lite - The World's Smallest Laravel Instance</a> |
+| <a href="https://youtu.be/6S8rctrvbNA"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/llama-wasm-thumbnail.png?v=3">Client-Side LLMs using Llama.cpp & WebGPU</a> | <a href="https://www.youtube.com/watch?v=yQP7KTeFAAs"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ts-cpu.png?v=1">Building a CPU, Language & Compiler with TypeScript</a> | <a href="https://www.youtube.com/watch?v=sh04d1Z8Qgg"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ai-with-php.png?v=1">Building AI... but using PHP not Python</a> |
 | -- | -- | -- |
 
 # Work
@@ -90,9 +91,12 @@ $router->get('/', function () {
 
 
 ---
+
 ### [Building a CPU, Language & Compiler in TypeScript](https://github.com/anthonybudd/TS-CPU)
 
-<a href="https://github.com/anthonybudd/TS-CPU"><img width="400" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ts-cpu-cover.png?v=2"></a>
+<a href="https://github.com/anthonybudd/TS-CPU">
+<img width="400" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ts-cpu-cover.png?v=3">
+</a>
 
 ![Language](https://img.shields.io/badge/Language-typescript-success?style=flat)
 
@@ -108,20 +112,21 @@ cpu.loadProgram(Compiler.compile("./program.ass"));
 cpu.run();
 ```
 
-
 ---
-### [Ai with PHP](https://github.com/anthonybudd/Ai-with-PHP)
 
-<a href="https://github.com/anthonybudd/Ai-with-PHP"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ai-with-php.png"></a>
+### [Client-side LLMs using Llama.cpp and WebGPU](https://github.com/anthonybudd/Llama.cpp-WASM-WebGPU)
 
-![Language](https://img.shields.io/badge/Language-php-success?style=flat)
+<a href="https://github.com/anthonybudd/Llama.cpp-WASM-WebGPU">
+<img width="400" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/llama-wasm-thumbnail.png?v=3">
+</a>
 
-Some experiments using PHP with the [PHP-FANN](https://github.com/bukka/php-fann) extension to find out how difficult it is to build Ai with PHP.
+![Language](https://img.shields.io/badge/Language-javascript-success?style=flat)
 
-- 🐘 OCR using PHP
-- ▶️ [YouTube Video](https://youtu.be/sh04d1Z8Qgg)
-- 💻 Web UI for testing models
+This repo is a technical proof of concept showing an LLM running client-side in a browser using Llama.cpp compiled to WASM with WebGPU.
 
+- ▶️ [YouTube Video](https://youtu.be/6S8rctrvbNA)
+- 💬 LLM Fully In-Browser 
+- 📄 Client-Side PDF Document Analysis
 
 ---
 
@@ -199,21 +204,20 @@ A crypto-currency ATM that someone with minimal electro-mechanical skill can bui
 ---
 
 
-<a href="https://github.com/anthonybudd/camera-spike"><img src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/main/img/camera-spike.png?v=1"></a>
+### [Ai with PHP](https://github.com/anthonybudd/Ai-with-PHP)
 
+<a href="https://github.com/anthonybudd/Ai-with-PHP"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ai-with-php.png"></a>
 
-### [Camera Spike](https://github.com/anthonybudd/Camera-Spike)
-![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
-![Stars](https://img.shields.io/github/stars/anthonybudd/Camera-Spike?style=social)
+![Language](https://img.shields.io/badge/Language-php-success?style=flat)
 
+Some experiments using PHP with the [PHP-FANN](https://github.com/bukka/php-fann) extension to find out how difficult it is to build Ai with PHP.
 
-Camera Spike is a basic self-hosted security camera project for the Raspberry Pi. A web UI is provided using Tor, this allows you to remotely monitor the feed without needing to register the device with a 3rd-party or without disclosing your IP address or the IP address of the Camera Spike. CLI tools are provided so you can easily create a custom onion v3 address.
+- 🐘 OCR using PHP
+- ▶️ [YouTube Video](https://youtu.be/sh04d1Z8Qgg)
+- 💻 Web UI for testing models
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
-
-<a href="https://github.com/anthonybudd/s4"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s4.png"></a>
 
 
 ### [S4](https://github.com/anthonybudd/s4)
@@ -228,49 +232,7 @@ S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using
 
 ---
 
-<a href="https://github.com/anthonybudd/nginx-tor-proxy"><img height="75" src="https://github.com/anthonybudd/nginx-tor-proxy/raw/master/docs/img/header.png"></a>
 
-### [NGINX TOR Proxy](https://github.com/anthonybudd/nginx-tor-proxy)
-
-
-NGINX Tor Proxy is a simple container that exposes your containers with a custom Tor v3 Onion address.
-
-Tor vanity URLs generated using [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-
-<!-- ---
-
-### [CLI Password Manager](https://github.com/anthonybudd/CLI-Password-Manager)
-
-CLI Password Manager gives you 4 simple commands for easily encrypting and decrypting a local password vault using OpenSSL.
-
-```js
-clipm-dec
-clipm-nano
-clipm-enc
-``` -->
-
----
-
-<!-- ### [If](https://github.com/anthonybudd/If)
-
-A chainabale if library for JavaScript.
-
-This is totally pointless, I just wanted to see if I could build this because I think this kind of chainable syntax looks better over control-structure syntax in the `.then()` method of a promise.
-
-```js
-const myArr = ['a', 'b', 'c'];
-const result = new If(myArr.length < 2)
-    .then(() => ('Array less than 2'))
-    .elseif((myArr.length > 3), () => ('Array greater than 3'))
-    .else(() => ('Array has length 3'))
-    .fi();
-
-console.log(result); // 'Array has length 3'
-```
-
-
-
---- -->
 
 
 ### Archived Projects
