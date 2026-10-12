@@ -8,11 +8,11 @@
 
 </h3>
 
-REST API & SaaS Specialist. Over 15 years of experience building web technology with TypeScript, JavaScript and PHP.
+Over 15 years building SaaS.
 
-- 🏢 Worked at Apple, RedHat and LegalZoom
 - 🥇 UpWork Top-Rated & Expert-Vetted Developer
 - ✅ Laravel Framework Contributor
+- ⭐️ Over 1000 Stars on GitHub
 
 
 
