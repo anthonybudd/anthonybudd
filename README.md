@@ -8,7 +8,7 @@
 
 </h3>
 
-Over 15 years building SaaS.
+Senior full-stack engineer with over 15 years of experience building production SaaS and REST APIs with TypeScript.
 
 - 🥇 UpWork Top-Rated & Expert-Vetted Developer
 - ✅ Laravel Framework Contributor
@@ -66,29 +66,6 @@ Production-ready minimal REST API template using Express.ts, Sequelize and MySQL
 | `GET`         | `/api/v1/user`                                           | Get the current user                  |                                         | `{User}`            |  
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
 |               | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
-
----
-
-### [Laravel Lite](https://github.com/anthonybudd/Laravel-Lite)
-
-<a href="https://github.com/anthonybudd/Laravel-Lite"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/refs/heads/master/public/logo.svg?v=1"></a>
-
-![Language](https://img.shields.io/badge/Language-php-success?style=flat)
-
-A super minimal microservice template using Illuminate components for rapid prototyping of Laravel projects.
-
-- 🐘 Built Using Laravel Illuminate Components
-- 🚀 Super Minimal. Crazy-Fast Cold Starts
-- ✅ Tests Using PHPUnit
-
-```php
-use Illuminate\Http\Response;
-
-$router->get('/', function () {
-    return new Response("Hello World", 200); 
-});
-```
-
 
 ---
 
@@ -164,7 +141,29 @@ Over the past few years I’ve been thinking about how I could build SaaS and de
 
 ---
 
-<a href="https://youtu.be/3rvBe_5Y78o">
+### [Laravel Lite](https://github.com/anthonybudd/Laravel-Lite)
+
+<a href="https://github.com/anthonybudd/Laravel-Lite"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/refs/heads/master/public/logo.svg?v=1"></a>
+
+![Language](https://img.shields.io/badge/Language-php-success?style=flat)
+
+A super minimal microservice template using Illuminate components for rapid prototyping of Laravel projects.
+
+- 🐘 Built Using Laravel Illuminate Components
+- 🚀 Super Minimal. Crazy-Fast Cold Starts
+- ✅ Tests Using PHPUnit
+
+```php
+use Illuminate\Http\Response;
+
+$router->get('/', function () {
+    return new Response("Hello World", 200); 
+});
+```
+
+---
+
+<!-- <a href="https://youtu.be/3rvBe_5Y78o">
   <img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/6hr-startup-yt.png">
 </a>
 
@@ -175,7 +174,7 @@ Over the past few years I’ve been thinking about how I could build SaaS and de
 
 In this video, I build a fully functional, live start-up in just 6 hours, using my Vue.js and Express.ts templates. From cloneing to deployment, I showcase the full-stack development process of a polished prduct. This isn’t a tutorial, it’s a real-time demonstration of how I build production-ready start-ups for clients.
 
----
+--- -->
 
 <a href="https://github.com/anthonybudd/vipfs"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 
