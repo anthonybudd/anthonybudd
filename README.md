@@ -67,6 +67,30 @@ Production-ready minimal REST API template using Express.ts, Sequelize and MySQL
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
 |               | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
 
+
+---
+### [Origin Private File System API](https://github.com/anthonybudd/opfs.ts)
+
+<a href="https://github.com/anthonybudd/opfs.ts"><img src="https://raw.githubusercontent.com/anthonybudd/opfs.ts/master/.github/assets/logo.svg"></a>
+
+![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
+
+A minimal TypeScript API for the [Origin Private File System](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system) using `fs` function names. 
+
+- 📘 Documentation
+- ✅ Full Test Coverage
+- ☁️ Installable with NPM
+
+```ts
+import * as fs from '@anthonybudd/opfs.ts';
+
+const dir = await fs.mkdir('personal/notes');
+await fs.write('Hello World', 'personal/notes/test.txt');
+await fs.exists('personal/notes/test.txt');
+await fs.unlink('personal/notes/test.txt');
+await fs.readDir('personal/notes');
+```
+
 ---
 
 ### [Building a CPU, Language & Compiler in TypeScript](https://github.com/anthonybudd/TS-CPU)
