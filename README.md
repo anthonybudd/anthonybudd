@@ -1,6 +1,12 @@
-![Header](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg?v=5)
+<p align="center">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/header.svg?v=5" alt="Header">
+</p>
+
+<h3 align="center">
 
 | [UpWork](https://www.upwork.com/freelancers/anthonybudd) | [YouTube](https://www.youtube.com/@anthonycbudd) | [Calendly](https://calendly.com/anthonybudd/30min) |
+
+</h3>
 
 Senior full-stack engineer with over 15 years of experience building production SaaS and REST APIs with TypeScript.
 
@@ -8,23 +14,38 @@ Senior full-stack engineer with over 15 years of experience building production 
 - ✅ Laravel Framework Contributor
 - ⭐️ Over 1000 Stars on GitHub
 
-# YouTube
 
-| ![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/llama-wasm-thumbnail.png?v=3)[Client-Side LLMs using Llama.cpp & WebGPU](https://youtu.be/6S8rctrvbNA) | ![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ts-cpu.png?v=1)[Building a CPU, Language & Compiler with TypeScript](https://www.youtube.com/watch?v=yQP7KTeFAAs) | ![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ai-with-php.png?v=1)[Building AI... but using PHP not Python](https://www.youtube.com/watch?v=sh04d1Z8Qgg) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+# YouTube
+| <a href="https://youtu.be/6S8rctrvbNA"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/llama-wasm-thumbnail.png?v=3">Client-Side LLMs using Llama.cpp & WebGPU</a> | <a href="https://www.youtube.com/watch?v=yQP7KTeFAAs"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ts-cpu.png?v=1">Building a CPU, Language & Compiler with TypeScript</a> | <a href="https://www.youtube.com/watch?v=sh04d1Z8Qgg"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/yt-ai-with-php.png?v=1">Building AI... but using PHP not Python</a> |
+| -- | -- | -- |
 
 # Work
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/anthonybudd">
+  <img width="auto" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/banner.png?v=20-12-21" alt="HireMe">
+  </a>
+  </br>
+  <!-- <a href="https://www.upwork.com/freelancers/anthonybudd">
+  UpWork.com/freelancers/AnthonyBudd
+  </a> -->
+</p>
 
-![HireMe](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/banner.png?v=20-12-21)  
+| <a href="https://www.upwork.com/services/product/development-it-on-prem-cryptocurrency-exchange-infrastructure-1729571406733246464"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-infra.png?v=1"> I Can Build Your On-Prem Infrastructure.<br/>From $50,000</a> | <a href="https://www.upwork.com/services/product/development-it-bespoke-node-js-enterprise-grade-saas-mvp-1718712762925244416"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-mvp.png?v=1"> I Can Build Your App in 28 days.<br/>From $15,000</a>|
+| -- | -- |
 
-| ![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-infra.png?v=1) [I Can Build Your On-Prem Infrastructure.](https://www.upwork.com/services/product/development-it-on-prem-cryptocurrency-exchange-infrastructure-1729571406733246464) [From $50,000](https://www.upwork.com/services/product/development-it-on-prem-cryptocurrency-exchange-infrastructure-1729571406733246464) | ![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/product-mvp.png?v=1) [I Can Build Your App in 28 days.](https://www.upwork.com/services/product/development-it-bespoke-node-js-enterprise-grade-saas-mvp-1718712762925244416) [From $15,000](https://www.upwork.com/services/product/development-it-bespoke-node-js-enterprise-grade-saas-mvp-1718712762925244416) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<!-- <p align="center">
+  <a href="https://www.upwork.com/freelancers/anthonybudd">
+  UpWork.com/freelancers/AnthonyBudd
+  </a>
+</p> -->
+
 
 # Projects
 
 ### [Express.ts API Template](https://github.com/anthonybudd/express-ts-api-template)
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-template.png)
+<a href="https://github.com/anthonybudd/express-ts-api-template"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/express-ts-api-template.png"></a>
 
 ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
@@ -46,11 +67,11 @@ Production-ready minimal REST API template using Express.ts, Sequelize and MySQL
 | `POST`        | `/api/v1/user`                                           | Update the current user               | `{firstName, lastName}`                 | `{User}`            |  
 |               | [All Routes](https://github.com/anthonybudd/express-ts-api-template?tab=readme-ov-file#routes) |  |  |  |  
 
----
 
+---
 ### [Origin Private File System API](https://github.com/anthonybudd/opfs.ts)
 
-![](https://raw.githubusercontent.com/anthonybudd/opfs.ts/master/.github/assets/logo.svg)
+<a href="https://github.com/anthonybudd/opfs.ts"><img src="https://raw.githubusercontent.com/anthonybudd/opfs.ts/master/.github/logo.svg"></a>
 
 ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
@@ -61,20 +82,22 @@ A minimal TypeScript API for the [Origin Private File System](https://developer.
 - ☁️ Installable with NPM
 
 ```ts
-import * as fs from '@anthonybudd/opfs.ts';
+import opfs from '@anthonybudd/opfs.ts';
 
-await fs.mkdir('personal/notes');
-await fs.write('Hello World', 'personal/notes/test.txt');
-await fs.exists('personal/notes/test.txt'); // true
-await fs.unlink('personal/notes/test.txt');
-await fs.readDir('personal/notes'); // ['test.txt']
+const dir = await opfs.mkdir('personal/notes');
+await opfs.write('Hello World', 'personal/notes/test.txt');
+await opfs.exists('personal/notes/test.txt');
+await opfs.unlink('personal/notes/test.txt');
+await opfs.readDir('personal/notes');
 ```
 
 ---
 
 ### [Building a CPU, Language & Compiler in TypeScript](https://github.com/anthonybudd/TS-CPU)
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ts-cpu-cover.png?v=3)
+<a href="https://github.com/anthonybudd/TS-CPU">
+<img width="400" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ts-cpu-cover.png?v=3">
+</a>
 
 ![Language](https://img.shields.io/badge/Language-typescript-success?style=flat)
 
@@ -94,7 +117,9 @@ cpu.run();
 
 ### [Client-side LLMs using Llama.cpp and WebGPU](https://github.com/anthonybudd/Llama.cpp-WASM-WebGPU)
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/llama-wasm-thumbnail.png?v=3)
+<a href="https://github.com/anthonybudd/Llama.cpp-WASM-WebGPU">
+<img width="400" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/llama-wasm-thumbnail.png?v=3">
+</a>
 
 ![Language](https://img.shields.io/badge/Language-javascript-success?style=flat)
 
@@ -108,7 +133,9 @@ This repo is a technical proof of concept showing an LLM running client-side in 
 
 ### [ShadCN Vue3 SaaS Template](https://github.com/anthonybudd/Shadcn-Vue-SaaS-Template)
 
-![](https://raw.githubusercontent.com/anthonybudd/Shadcn-Vue-SaaS-Template/refs/heads/master/public/static/screenshots.png)
+<a href="https://github.com/anthonybudd/Shadcn-Vue-SaaS-Template">
+  <img src="https://raw.githubusercontent.com/anthonybudd/Shadcn-Vue-SaaS-Template/refs/heads/master/public/static/screenshots.png">
+</a>
 
 A minimal SaaS UI template built with ShadCN and Vue3. Works out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
 
@@ -128,7 +155,9 @@ npm run dev
 
 ---
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png)
+<a href="https://github.com/anthonybudd/s3-from-scratch">
+  <img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/s3.png">
+</a>
 
 ### [An Attempt At Building Enterprise-grade S3 Infrastructure From Bare Metal](https://github.com/anthonybudd/s3-from-scratch)
 
@@ -138,7 +167,7 @@ Over the past few years I’ve been thinking about how I could build SaaS and de
 
 ### [Laravel Lite](https://github.com/anthonybudd/Laravel-Lite)
 
-![](https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/refs/heads/master/public/logo.svg?v=1)
+<a href="https://github.com/anthonybudd/Laravel-Lite"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/Laravel-Lite/refs/heads/master/public/logo.svg?v=1"></a>
 
 ![Language](https://img.shields.io/badge/Language-php-success?style=flat)
 
@@ -158,6 +187,10 @@ $router->get('/', function () {
 
 ---
 
+<!-- <a href="https://youtu.be/3rvBe_5Y78o">
+  <img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/6hr-startup-yt.png">
+</a>
+
 ### [YouTube: Building a Start-up in 6 Hours](https://youtu.be/3rvBe_5Y78o)
 
 - Frontend: [AnthonyBudd/P.R.Box-UI](https://github.com/anthonybudd/P.R.Box-UI)
@@ -167,12 +200,12 @@ In this video, I build a fully functional, live start-up in just 6 hours, using 
 
 --- -->
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png)
+<a href="https://github.com/anthonybudd/vipfs"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/vipfs.png"></a>
 
 ### [VIPFS](https://github.com/anthonybudd/vipfs)
-
 ![Language](https://img.shields.io/badge/Language-Node.js-success?style=flat)
 ![Stars](https://img.shields.io/github/stars/anthonybudd/VIPFS?style=social)
+
 
 VIPFS is a simple template project for creating permanent decentralised apps, blogs and websites that cannot be taken offline by anyone, including the government. VIPFS comes with useful templates and is pre-integrated with Bootstrap, FontAwesome and Video.js. Simply clone, compile and run  `npm run publish`  to deploy it on [IPFS](https://github.com/ipfs) and make your project permanently accesable to the world.
 
@@ -182,19 +215,21 @@ VIPFS is a simple template project for creating permanent decentralised apps, bl
 
 ---
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg)
+<a href="https://github.com/anthonybudd/Open-Source-Crypto-ATM"><img width="300" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/osca.jpg"></a>
+
 
 ### [OSCA. Open-Source Crypto ATM](https://github.com/anthonybudd/Open-Source-Crypto-ATM)
-
 ![Stars](https://img.shields.io/github/stars/anthonybudd/Open-Source-Crypto-ATM?style=social)
+
 
 A crypto-currency ATM that someone with minimal electro-mechanical skill can build at home with parts from Amazon and hardware from Lowes. The user inserts cash and the machine returns a cold wallet loaded with the desired amount of crypto-currency. OSCA does not require you to disclose any personal information to use this ATM.
 
 ---
 
+
 ### [Ai with PHP](https://github.com/anthonybudd/Ai-with-PHP)
 
-![](https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ai-with-php.png)
+<a href="https://github.com/anthonybudd/Ai-with-PHP"><img width="500" src="https://raw.githubusercontent.com/anthonybudd/anthonybudd/master/img/ai-with-php.png"></a>
 
 ![Language](https://img.shields.io/badge/Language-php-success?style=flat)
 
@@ -204,24 +239,30 @@ Some experiments using PHP with the [PHP-FANN](https://github.com/bukka/php-fann
 - ▶️ [YouTube Video](https://youtu.be/sh04d1Z8Qgg)
 - 💻 Web UI for testing models
 
+
 ---
 
-### [S4](https://github.com/anthonybudd/s4)
 
+### [S4](https://github.com/anthonybudd/s4)
 ![Stars](https://img.shields.io/github/stars/anthonybudd/s4?style=social)
 
+
 S4 is 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS. Tor acts as a DNS and [IPFS](https://github.com/ipfs/ipfs) acts as a CDN and will make your data permanently accessible and is almost impossible to take offline. A [sidecar docker container](https://github.com/anthonybudd/s4-client) is provided to seamlessly proxy requests from your existing S3 code over Tor to S4. Basically it's self-hosted S3 that also makes the data accessible on IPFS.
+
 
 - [YouTube Tutorial](https://youtu.be/RMNjpAmCvcQ)
 - [Talking about S4 on the IPFS weekly meet-up](https://www.youtube.com/watch?v=8F62oXVrYJU)
 
 ---
 
+
+
+
 ### Archived Projects
 
 #### [WP_Model](https://github.com/anthonybudd/wp_model)
-
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_model?style=social)
+
 
 WP_Model is an advanced pseudo ORM for WordPress, it provides active-record models of WordPress posts in the style of Laravel's ORM eloquent.
 
@@ -244,12 +285,12 @@ $book->price = 20;
 $book->save();
 ```
 
-#### [WP_Route](https://github.com/anthonybudd/wp_route)
 
+#### [WP_Route](https://github.com/anthonybudd/wp_route)
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_route?style=social)
 
-WP_Route is a simple way to create custom routes in WordPress for listening for webhooks, oAuth callbacks and basic routing. WP_Route is a single class solution that supports route parameters and redirects and does not require any set-up.
 
+WP_Route is a simple way to create custom routes in WordPress for listening for webhooks, oAuth callbacks and basic routing. WP_Route is a single class solution that supports route parameters and redirects and does not require any set-up.
 ```PHP
 WP_Route::get('flights',                        'listFlights');
 WP_Route::post('flights/{flight}',              'singleFlight');
@@ -262,12 +303,13 @@ WP_Route::match(['get', 'post'],                'flights/{flight}/confirm', 'con
 WP_Route::redirect('/from/here',                '/to/here', 301);
 ```
 
-#### [WP_Mail](https://github.com/anthonybudd/wp_mail)
 
+
+#### [WP_Mail](https://github.com/anthonybudd/wp_mail)
 ![Language](https://img.shields.io/badge/Language-PHP-success?style=flat) ![Stars](https://img.shields.io/github/stars/anthonybudd/wp_mail?style=social)
 
-WP_Mail is the simplest and most powerful dynamic email class available for WordPress. The class provides simple methods for attaching files, custom headers and lots of helper functions. The class only sends emails using the WordPress function wp_mail(), this means that all of your existing SMTP settings will continue to work with no additional config or set-up required.
 
+WP_Mail is the simplest and most powerful dynamic email class available for WordPress. The class provides simple methods for attaching files, custom headers and lots of helper functions. The class only sends emails using the WordPress function wp_mail(), this means that all of your existing SMTP settings will continue to work with no additional config or set-up required.
 ```PHP
 $email = WP_Mail::init()
     ->to('john.doe@gmail.com')
@@ -283,4 +325,6 @@ $email = WP_Mail::init()
     ->send();
 ```
 
-![](https://u8views.com/api/v1/github/profiles/7443012/views/total-count.svg)
+
+
+<a href="https://u8views.com/github/anthonybudd"><img src="https://u8views.com/api/v1/github/profiles/7443012/views/total-count.svg"></a>
