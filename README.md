@@ -71,7 +71,7 @@ Production-ready minimal REST API template using Express.ts, Sequelize and MySQL
 ---
 ### [Origin Private File System API](https://github.com/anthonybudd/opfs.ts)
 
-<a href="https://github.com/anthonybudd/opfs.ts"><img src="https://raw.githubusercontent.com/anthonybudd/opfs.ts/master/.github/logo.svg"></a>
+<a href="https://github.com/anthonybudd/opfs.ts"><img src="https://raw.githubusercontent.com/anthonybudd/opfs.ts/master/.github/assets/logo.svg"></a>
 
 ![Language](https://img.shields.io/badge/Language-Node.ts-success?style=flat)
 
