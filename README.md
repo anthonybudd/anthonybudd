@@ -81,11 +81,15 @@ A minimal TypeScript API for the [Origin Private File System](https://developer.
 - ✅ Full Test Coverage
 - ☁️ Installable with NPM
 
+```sh
+npm i @anthonybudd/opfs.ts
+```
+
 ```ts
 import opfs from '@anthonybudd/opfs.ts';
 
 const dir = await opfs.mkdir('personal/notes');
-await opfs.write('Hello World', 'personal/notes/test.txt');
+await opfs.write('personal/notes/test.txt', 'Hello World', );
 await opfs.exists('personal/notes/test.txt');
 await opfs.unlink('personal/notes/test.txt');
 await opfs.readDir('personal/notes');
