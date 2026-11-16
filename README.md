@@ -82,11 +82,11 @@ A minimal TypeScript API for the [Origin Private File System](https://developer.
 - ☁️ Installable with NPM
 
 ```sh
-npm i @anthonybudd/opfs.ts
+npm i @anthonycbudd/opfs.ts
 ```
 
 ```ts
-import opfs from '@anthonybudd/opfs.ts';
+import opfs from '@anthonycbudd/opfs.ts';
 
 const dir = await opfs.mkdir('personal/notes');
 await opfs.write('personal/notes/test.txt', 'Hello World', );
